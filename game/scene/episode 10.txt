@@ -1,0 +1,402 @@
+;
+bgm:Madness.mp3;
+intro:Episode 10|In the great house of Guzzi Cheung;
+changeBg:book.png -next;
+changeFigure:mbv2.png -left -next;
+莫疏桐:十一点，快中午了，但还是好困哦。
+莫疏桐:不知道小谷醒没醒，小川和阿绘还在不在。
+莫疏桐:昨天晚上我们四个一起来滚直家做饭吃，吃完饭玩Music Monopoly
+莫疏桐:我反正是早早就出局了，实在等不及便自己先写了首歌
+莫疏桐:之后滚直也出了局，和我一起写
+莫疏桐:不久就困了，我说我想回去，小谷说太晚了不安全睡她家吧，我就睡在这件房间里
+莫疏桐:不知道她们三个现在怎么样了？
+changeBg:corridor.png -next;
+:莫疏桐走出房间
+changeFigure:close -left -next;
+changeBg:kcsleep.jpg -next;
+:莫疏桐瞥了一眼张谷之的房间，却发现睡在床上的是宋柯川，她抱着巨大的熊玩偶
+changeBg:milktea.png -next;
+changeFigure:mbv2.png -left -next;
+:莫疏桐来到客厅
+changeFigure:mbv2_zhangzui.png -left -next;
+莫疏桐:哎呀！
+:莫疏桐被绊倒了，身体扑在一床被子上
+:原来地面上横着熊若绘的身体
+changeFigure:rh_youshang.png -left -next;
+熊若绘:好困……
+changeFigure:rh_youshang.png -left -next;
+熊若绘:诶诶诶莫疏桐你怎么了？
+changeFigure:mbv2.png -left -next;
+莫疏桐:吓死我了。我没事，有被子垫着。你还好吗？
+changeFigure:rh.png -left -next;
+熊若绘:我还好，昨天通宵玩桌游直接在客厅睡着了。
+changeFigure:mbv2.png -left -next;
+莫疏桐:那，小谷呢？  
+changeFigure:rh_youshang.png -left -next;
+熊若绘:不知道啊，她不是很早就睡了吗？
+changeFigure:mbv2.png -left -next;
+莫疏桐:但我没在她房间找到她，睡在她床上的反而是小川。
+changeFigure:rh_juezui.png -left -next;
+熊若绘:？？？
+熊若绘:不管了，整点吃的先，饿死了
+:熊若绘试图起身，却发现腿被什么东西压着
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:小……小张？你怎么趴在被子下面？
+changeFigure:close -left -next;
+changeBg:sky.jpg -next;
+:昨日傍晚
+changeFigure:kc.png -left -next;
+宋柯川:（左手拎着一只袋子）帮我拎下袋子，我去按门铃。
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:（双手各拎一只袋子）好重喔。
+changeFigure:kc.png -left -next;
+宋柯川:我也没见你在超市买什么东西嘛。
+changeFigure:rh_ziya.png -left -next;
+熊若绘:你忘了我自己提了一大包调料来？;
+changeFigure:rh_liuhan.png -left -next;
+上次去小张家，偌大的厨房，酱油生抽料酒一瓶都没有，最后还是被迫点外卖。;
+真行啊，整个厨房居然找不到一瓶调料，我都好奇她平时怎么吃饭的。;
+changeFigure:kc.png -left -next;
+宋柯川:我也是这样的。
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:你平时不做饭的吗？
+changeFigure:kc.png -left -next;
+宋柯川:顿顿煮火鸡面不就完了。;
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:就图火鸡面劲道煮不烂是吧。
+changeFigure:kc.png -left -next;
+宋柯川:我是为了活着而吃饭，不是为了吃饭而活着。;
+changeFigure:rh_juezui.png -left -next;
+熊若绘:那我是截然相反的人哦。;
+不过我很好奇，你是为了活着而迪歌，还是为了迪歌而活着呢？;
+changeFigure:kc.png -left -next;
+宋柯川:我不会在此二选一，比起活着我更相似。;
+话说，这都等多久了还没人开门，张谷之难道不在家？;
+changeFigure:rh.png -left -next;
+熊若绘:你给她打个电话吧。
+changeFigure:kc_zhangzui.png -left -next;
+宋柯川:（嘟——嘟——嘟——）歪？滚直你在家吗？我和熊若绘到了在门外。
+changeFigure:gz.png -left -next;
+张谷之:（伴着吵闹的Hey ho let’s go）哎来了来了不好意思刚刚音响开太大了没听见……
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:。。。这家伙又在放雷蒙斯了
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:习惯了。
+changeFigure:gz.png -left -next;
+张谷之:（开门）久等了，都进来吧。
+changeBg:milktea.png -next;
+changeFigure:mbv2.png -left -next;
+莫疏桐:Hi
+changeFigure:kc.png -left -next;
+宋柯川:好大的房子
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:可惜在放朋克
+changeFigure:gz_shengqi.png -left -next;
+张谷之:朋克怎么你了？你爹Robert Fripp不也喜欢Toyah?
+changeFigure:kc_jiaxiao.png -left -next;
+宋柯川:不是，你怎么老是听这些，能不能放点别的？
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:你不也照样隔三差五听前卫摇滚？
+changeFigure:mbv2.png -left -next;
+莫疏桐:不过话说回来，我们一直在听摇滚，没怎么听其他流派的音乐。
+changeFigure:kc.png -left -next;
+宋柯川:确实，隐秘的大师需要汲取多种流派的音乐。
+changeFigure:rh.png -left -next;
+熊若绘:话说，你们听不听嘻哈？
+changeFigure:gz.png -left -next;
+张谷之:我听，我喜欢武当 outkast azo c big I blackmoon gangstarr…
+changeFigure:kc_doudouyan.png -left -next;
+宋柯川:？？？
+changeFigure:kc.png -left -next;
+宋柯川:呃…我退出这个话题，我的嘻哈鉴赏能力只够我听Hamilton的
+宋柯川:我只会哼don’t touch me cause I’m close to the edge
+宋柯川:我还是知道坎耶歪斯特采样了我们大红脸的
+changeFigure:mbv2.png -left -next;
+莫疏桐:我听一点，我喜欢bladee的icedancer
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:Icedancer纯属炒作产物
+changeFigure:mbv2.png -left -next;
+莫疏桐:我最喜欢的是法海，除此之外我还喜欢yabujin viper lil B
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:厕
+changeFigure:mbv2_liuhan.png -left -next;
+莫疏桐:哦？那你倒是说说有哪些高雅喊麦？
+changeFigure:rh_juezui.png -left -next;
+熊若绘:我喜欢实验嘻哈，杜牧、黑星、P.M.Dawn、Deltron、The Roots、Pete Rock…
+changeFigure:rh_liezui.png -left -next;
+熊若绘:嗯还有EL-P，小宋你可以听听，它们也调侃过自己的名字
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:好劝退的名字……
+changeFigure:kc.png -left -next;
+宋柯川:嗯……嘻哈硬要说的话我其实听过不少次Drake，我觉得还蛮好听
+changeFigure:rh_jiaxiao.png -left -next;
+熊若绘:？前卫骡子你的审美是不是出了些问题
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:呃呃……我确实不听说唱也没办法。
+changeFigure:kc.png -left -next;
+宋柯川:这样吧，你说说看，嘻哈哪个是绝对不能碰的。
+changeFigure:rh_juezui.png -left -next;
+熊若绘:ATCQ（即答）
+changeFigure:gz_shengqi.png -left -next;
+张谷之:？？？
+changeFigure:gz.png -left -next;
+张谷之:不说了，做饭去吧。
+changeFigure:close -left -next;
+:四人在宽敞的厨房里忙东忙西。
+bgm:jay.mp3;
+changeFigure:rh_liezui.png -left -next;
+熊若绘:要不要放点歌？
+changeFigure:kc.png -left -next;
+宋柯川:放什么？
+changeFigure:close -left -next;
+:~爱像一阵风 吹完它就走~
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:玩尬的是吧？
+changeFigure:rh_liezui.png -left -next;
+熊若绘:龙卷风还是很高雅的。
+changeFigure:mbv2.png -left -next;
+莫疏桐:Jay最后两首我都喜欢，我喜欢反方向的钟。
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:反方向的钟不如龙卷风半点，词写的什么玩意。
+changeFigure:mbv2.png -left -next;
+莫疏桐:我厕品，我只喜欢反方向的钟。
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:还不如听nujabes
+changeFigure:kc.png -left -next;
+宋柯川:都不如爱在西元前。
+changeFigure:gz.png -left -next;
+张谷之:爱在西元前确实高雅，词也是最好的。
+张谷之:我觉得忍者也不错。
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:范特西也就这两首能听。
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:八度空间暴杀范特西。
+changeFigure:mbv2_liuhan.png -left -next;
+莫疏桐:喂喂喂先别吵了水开了。
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:啊——
+changeFigure:rh_youshang.png -left -next;
+熊若绘:嗐，幸好没扑出来。
+changeFigure:gz.png -left -next;
+张谷之:呃呃别纠结了放叶惠美吧。这张最高雅没人反对吧。
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:死爹精神嘛。
+changeFigure:kc.png -left -next;
+宋柯川:这张值得听的还是太多了。
+changeFigure:mbv2.png -left -next;
+莫疏桐:我选晴天！
+changeFigure:kc.png -left -next;
+宋柯川:我选东风破、三年二班和双刀。
+changeFigure:gz.png -left -next;
+张谷之:其实我最喜欢的是她的睫毛。
+changeFigure:rh_jiaxiao.png -left -next;
+熊若绘:再加首你听得到。
+changeFigure:kc.png -left -next;
+宋柯川:差不多了，下一张吧。
+changeFigure:gz_liuhan.png -left -next;
+张谷之:七里香么……也就七里香能听。
+changeFigure:rh_jiaxiao.png -left -next;
+熊若绘:勉强加上园游会和乱舞春秋。
+changeFigure:mbv2.png -left -next;
+莫疏桐:感觉选项越来越有限了。
+changeFigure:gz.png -left -next;
+张谷之:十一月的肖邦呢？
+changeFigure:kc.png -left -next;
+宋柯川:除了黑色毛衣还有能听的么？
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:发如雪不比东风破高雅？
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:呃呃停一下，鸡翅到底要不要焯水？
+changeFigure:gz.png -left -next;
+张谷之:疏桐你上次怎么做的来着？
+changeFigure:mbv2.png -left -next;
+莫疏桐:不用，直接下锅吧。
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:行，继续，下一张。
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:呃呃依然范特西司马了。我很忙也司马了。
+熊若绘:也就白色风车和我不配能听。
+changeFigure:gz.png -left -next;
+张谷之:夜的第七章就是对以父之名的拙劣自我复制。
+changeFigure:mbv2.png -left -next;
+莫疏桐:至少依然范特西全是金曲。
+hangeFigure:rh_liuhan.png -left -next;
+熊若绘:不如河北ye的范特西2
+changeFigure:kc.png -left -next;
+宋柯川:这张之后我就没听过，有什么歌来着？
+宋柯川:（拿出手机查）呃呃……
+changeFigure:kc_doudouyan.png -left -next;
+宋柯川:明明先前我从未听过这张专辑可为什么每首歌我都会唱……
+changeFigure:gz.png -left -next;
+张谷之:我们巴哥是这样的。
+changeFigure:mbv2.png -left -next;
+莫疏桐:下一张我也只get到稻香了。
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:稻香我就从来没get到过。
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:（拿出手机查）封面什么玩意不忍卒听
+changeFigure:kc.png -left -next;
+宋柯川:那之后呢，看歌名除了几首hits感觉有点陌生了，有什么推荐吗？
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:后面没一首能听的。
+changeFigure:mbv2.png -left -next;
+莫疏桐:开饭咯——
+changeFigure:rh.png -left -next;
+熊若绘:好捏
+changeFigure:close -left -next;
+:饭后
+changeFigure:mbv2.png -left -next;
+bgm:film.mp3;
+莫疏桐:接下来我们做些什么呢？
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:我要玩桌游，当然司马德式桌游除外。
+changeFigure:gz.png -left -next;
+张谷之:我这里只有Music Monopoly，今天就玩点经典家庭桌游吧。
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:呃呃就是那个试图逆转资本主义社会最后超级大卖反被资本主义社会逆转的游戏么……
+changeFigure:rh.png -left -next;
+熊若绘:每个玩家各自经营一家唱片公司，投掷骰子，在60s/70s/80s/90s四条时间线围成的棋盘上抢占市场发行专辑，处于该年份的玩家支付该时间段专辑购买费用……
+熊若绘:这游戏规则还是太简单了，不过偶尔玩玩也不错。
+changeFigure:mbv2.png -left -next;
+莫疏桐:好捏那我们开始吧。
+changeBg:studio.png -next;
+:四小时后
+changeFigure:mbv2.png -left -next;
+莫疏桐:呀，小谷，你终于破产啦
+changeFigure:gz.png -left -next;
+张谷之:运气太烂走到柯川的地盘上钱直接被抽光了
+changeFigure:mbv2.png -left -next;
+莫疏桐:我新歌都写了一半了怎么她们还没结束
+changeFigure:gz.png -left -next;
+张谷之:不清楚捏。
+changeBg:milktea.png -next;
+changeFigure:kc.png -left -next;
+宋柯川:轮到我出手了么？
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:来啊，1997、1998、1999、2000，现在你所在的这条90s时间线上末段四个年份我都发行了不少专辑，什么时候来买我厂牌发行的专辑。特定时间段扎堆发行还能叠加专辑费用捏。
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:嚯，真是险恶的四年。
+changeFigure:kc_zhangzui.png -left -next;
+宋柯川:我的回合，掷出5+3+6=14点，到达年份1969
+changeFigure:kc.png -left -next;
+宋柯川:完美避开~
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:可恶，算你走运。
+changeFigure:kc.png -left -next;
+宋柯川:经过起点领取启动资金10000米。1969年正好是我抢占市场的年份，还是滚直被我搞破产后继承来的，非常好，消耗5000米发行专辑Let it Bleed！
+changeFigure:rh_liezui.png -left -next;
+熊若绘:蛋糕专再根源又如何，人们只会记得首尾罢了
+changeFigure:kc.png -left -next;
+宋柯川:嘿嘿嘿就等你来我的60s时间线上买专辑了
+changeFigure:rh_liezui.png -left -next;
+熊若绘:还好我已经来到了70s，真是万幸。
+熊若绘:我的回合，掷出3+6+1=10点，到达年份1982
+熊若绘:不管了，消耗3000米专辑The Lexicon of Love!
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:1982年还有张The Dreaming，怎么尽是些现充玩意？
+changeFigure:rh_juezui.png -left -next;
+熊若绘:不过幸好这游戏仁慈，没有City Pop
+changeFigure:kc.png -left -next;
+宋柯川:你这厂牌不行啊。怎么不发行点金属呢？整点放克也行啊。
+宋柯川:我的回合，掷出1+2+3=6点，到达年份1975
+宋柯川:抽机会卡，“1986-1990五年间发行的专辑各下架一张”
+宋柯川:幸亏我只签了石玫瑰，哈哈，土味英摇鼻祖早就该解散了！
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:呃呃除了能让人想到夏天之外还是高雅的。
+changeFigure:kc.png -left -next;
+宋柯川:真有人爱喝雪碧吗？
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:我的回合，掷出1+1+1=3点，哇喔三个相同的点数可以去往任何想去的年份惹，我去2000年！
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:呃呃怎么还带梗的……
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘: 经过起点领取启动资金10000米。消耗15000米发行专辑Kid A！我就等你候来2000年转转了！
+changeFigure:kc.png -left -next;
+宋柯川:我的回合，掷出2+3+6=12点，到达年份1991
+宋柯川:消耗10000米发行专辑Nevermind！
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:我都懒得说了
+changeFigure:kc.png -left -next;
+宋柯川:1991年，有Loveless，有Spiderland，有Laughing Stock，再加上Nevermind，还不快来买专辑？
+changeFigure:rh_juezui.png -left -next;
+熊若绘:我的回合，掷出1+2+4=7点，到达年份1967
+changeFigure:kc.png -left -next;
+宋柯川:是我占领市场的年份呢
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:我去，sgt.peppers，the doors，are you experienced，forever changes，破晓风笛手，something else，支付唱片购买费用160000米。;
+changeFigure:rh_ziya.png -left -next;
+你抢钱啊？万恶的资本主义;
+changeFigure:kc.png -left -next;
+宋柯川:哈哈哈哈哈哈哈哈哈拿钱来！
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:为什么这游戏1967年没有大香蕉呢？最高雅的一张被去掉了。
+changeFigure:kc.png -left -next;
+宋柯川:谁让人家当年销量暴死呢。
+宋柯川:我的回合，掷出1+2+3=6店，到达年份1997
+宋柯川:1997-2000四年间市场均被RH占领，共OKC, F#A#, 越洋飞机，98.12.28，KDA, Lift Yr,六张专辑，支付唱片购买费用200000米。
+changeFigure:rh_liezui.png -left -next;
+熊若绘:天道好轮回~
+changeFigure:kc.png -left -next;
+宋柯川:没事，老娘我有钱任性。
+changeBg:corridor.png -next;
+changeFigure:mbv2.png -left -next;
+莫疏桐:好困，这把怎么还没结束。
+changeFigure:gz.png -left -next;
+张谷之:她俩真要决战到天明了。
+changeFigure:close -left -next;
+:……
+changeBg:milktea.png -next;
+:四小时后
+changeFigure:kc.png -left -next;
+宋柯川:哈哈哈哈哈哈哈我赢了
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:要不是刚刚那张机会卡征我每张专辑的税直接抽走我一半钱我也不至于暴毙
+changeFigure:kc.png -left -next;
+宋柯川:运气，运气
+changeFigure:rh.png -left -next;
+熊若绘:哎，好在，这盘终于玩完了，我终于能睡觉了
+changeFigure:kc.png -left -next;
+宋柯川:你碗还没有洗，桌子还没有擦
+changeFigure:rh.png -left -next;
+熊若绘:（看表）都四点半了。算了先一觉起来再说，困死我了
+changeFigure:kc.png -left -next;
+宋柯川:倒也是，虽说经常通宵但天天通宵身体撑不住
+changeFigure:rh.png -left -next;
+熊若绘:幸亏是滚直的大豪斯，一人一个房间，真舒服
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:喂喂喂KC你怎么直接睡在沙发上了
+changeFigure:rh_juezui.png -left -next;
+熊若绘:有点不好意思回房间睡，不过我只能睡地板上了
+changeFigure:close -left -next;
+:……
+changeBg:book.png -next;
+:半小时后
+changeFigure:gz.png -left -next;
+张谷之:（揉揉眼）诶外面怎么没动静了？结束了吗？
+changeBg:corridor.png -next;
+:滚直走出房间
+changeBg:milktea.png -next;
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:柯川怎么睡在沙发上？要着凉的，算了还是把她带回房间吧
+张谷之:等等，她房间床忘记铺了！她先睡我床上吧
+changeFigure:close -left -next;
+:张谷之将宋柯川抱起，宋柯川紧紧盘着张谷之
+changeFigure:gz_liuhan.png -left -next;
+张谷之:天呐……
+changeFigure:close -left -next;
+changeBg:kcsleep.jpg -next;
+:张谷之将宋柯川放下床，柯川身子一翻紧紧抱住床上巨大的熊玩偶
+changeFigure:gz.png -left -next;
+张谷之:然后是若绘
+张谷之:可是，万一若绘也像柯川紧紧抱着我不放怎么办？还是拿床被子给她盖上吧
+changeBg:milktea.png -next;
+:张谷之抱着一床被子来到客厅
+:张谷之被绊倒了，垫着被子扑倒在地板上
+张谷之:吓死我了，所幸扑在被子上，不疼
+张谷之:好舒服……算了，先睡一觉吧
+:张谷之扯了一角被子披在身上，趴在地板上不知不觉睡着了
+changeFigure:close -left -next;
+changeBg:close -next;
+setVar:sushe_flag=0 -global;
+changeScene:episode-11-sushe.txt;;
+

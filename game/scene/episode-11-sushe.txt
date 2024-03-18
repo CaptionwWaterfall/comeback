@@ -1,0 +1,84 @@
+;debug:sushe_flag={sushe_flag}
+jumpLabel:start01 -when=sushe_flag==1
+intro:Episode 11;
+bgm:boc.mp3;
+intro:「我的选择|我要冲出贫民窟|我没得选」|——河北ye「Hip-Hop就是个P」;
+
+setVar:sushe_flag=1 -global
+
+熊若绘:zzzzzzz;
+玩过游戏后，熊若绘已经筋疲力尽;
+意识逐渐抽离身体，像游丝一般，从一个全身贯注的胡思乱想开始蔓延，逐渐进入梦境;
+只要是不会引发身体神经紧张的胡思乱想，都是进入梦境的好工具;
+zzzzzzzz;
+changeBg:sushe.png;
+未知:欢迎进入逆转计划RPG；
+你是不是已经被这催眠的点点点视觉小说整的催眠了;
+好消息！好消息！下面这个游戏将进入RPG部分;
+每当熊若绘失去意识时，她都会进入一个梦境世界;
+现在，你就是熊若绘,你将获得她的第一视点;
+熊若绘，Lv.1，职业：逆转乐队iPad手;
+setVar:atk=5 -global;
+setVar:exp=5 -global;
+setVar:hp=5 -global;
+未知:熊若绘的攻击力为{atk},探索值为{exp},体力为{hp}
+label:start01
+label:choose1
+熊若绘:这里是哪里？这好像是我的高中宿舍;
+高中宿舍怎么会有电视机呢？;
+未知:是否要对当前场景进行探索？当前探索难度为8，你需要投一个六面骰子，如果探索值+骰子值大于等于8，就说明探索成功。
+choose:探索:exp01|暂时先不探索:episode-11-sushe.txt;
+label:exp01
+setVar:a=random();
+setVar:a=1+a*5;
+setVar:tou=1 -when=a>0.5
+setVar:tou=2 -when=a>1.5
+setVar:tou=3 -when=a>2.5
+setVar:tou=4 -when=a>3.5
+setVar:tou=5 -when=a>4.5
+setVar:tou=6 -when=a>5.5
+setVar:he=exp+tou
+未知:骰子的值为{tou}，探索值为{exp}，和为{he}
+未知:探索成功 -when=he>=8
+jumpLabel:suc -when=he>=8
+未知:探索失败,你需要重新探索，你的hp减1 -when=he<8
+setVar:hp=hp-1 -global;
+未知:你当前的体力值为{hp}.
+changeScene:episode-11-sushe.txt;
+changeScene:game over.txt -when=hp<1;
+
+label:suc
+未知:发现一个低音炮;
+熊若绘:啊，低音炮，好怀念，智能手机普及之前，我一直是用这个听歌的;
+每次想播一首歌，都需要输入一个编号;
+停顿两秒之后，低音炮会自动切换到那首歌;
+一开始会很不习惯，但用得多了之后，每首歌的编号我都了如指掌;
+低音炮是我偷偷带来学校的,河北的高中是不允许带电子产品的,但作为一个娱乐的工具，或者更多的是，作为一个对抗校规的存在，我每天都会用它来听歌;
+每天晚上宿舍熄灯后，都会有宿管来查寝;
+这些宿管，都是学生的家长来陪读的，竖火中学会为他们提供免费的宿舍，代价就是每天晚上必须无偿帮助竖火进行查寝;
+如果发现宿舍有异常就要通报批评;
+每天晚上我都会注视着宿舍门的窗口,当一个脑袋闪过，用手电筒透过窗户向里面探照时，我都会比演员更像一具尸体;
+这个脑袋离开之后，我会以第一宇宙速度打开低音炮听音乐;
+通常是一些初音未来的Electropop;
+这是紧绷的一天中最开心的时刻,我之后再也找不到这种听歌的感觉了;
+但在这个时刻听的音乐，都成为了我最爱的音乐，音乐就像藤蔓,不能离开对时间和记忆的依附而存在。;
+这让我感觉我的精神是自由的,只不过受限在了这副身体之中;
+不过这个低音炮现在打不开了;
+
+
+未知:还发现一个MV录像带！
+熊若绘:旁边有一个电视机，播放一下这个录像带吧。
+playVideo:afx.mp4;
+setVar:hp=hp-1 -global;
+未知: 你受到了1点精神污染，你当前的体力值为{hp}.
+changeScene:game over.txt -when=hp<1;
+未知: 你觉得很难受，想要出去走走，离开了宿舍。
+
+setVar:fanka=-1 -global;
+setVar:yaoshi=-1 -global;
+setVar:jxl_flag=-1 -global
+setVar:xmb_flag=-1 -global
+setVar:caochang_flag=-1 -global
+setVar:wjl_flag=-1 -global
+setVar:shitang_flag=-1 -global
+changeScene:episode-11-caochang.txt;;

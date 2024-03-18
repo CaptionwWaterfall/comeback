@@ -1,0 +1,80 @@
+;
+bgm:APPROPRIATEX.mp3;
+intro:Episode 9|;
+changeBg:studio.png -next;
+:几天后，排练室
+changeFigure:gz.png -left -next;
+张谷之:我们这段时间把全长专辑做完吧。;
+大家最近听过什么有意思的专辑吗？;
+changeFigure:mbv2.png -left -next;
+莫疏桐:我听了些重迷幻，Mountain、Bloodrock、Blue Cheer什么的，好有意思。
+changeFigure:gz.png -left -next;
+张谷之:哇，你吃了我的安利，我好开心。
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:半个多月而已你居然也变老保了。
+changeFigure:mbv2.png -left -next;
+莫疏桐:根源精神嘛，感觉自己耳朵老了二三十岁。;
+changeFigure:kc.png -left -next;
+宋柯川:恭喜啊，向着隐秘的大师更近了一步。
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:过气老白男怎么就成隐秘的大师了？
+changeFigure:mbv2.png -left -next;
+莫疏桐:七十年代的音乐听起来非常时髦，像是外太空的声音。
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:感觉土土的……我不理解。
+changeFigure:mbv2_liuhan.png -left -next;
+莫疏桐:可是于我而言，这些确实是我未曾接触的东西，我现在觉得很新鲜。;
+changeFigure:mbv2.png -left -next;
+话说，你们最近都听了什么？;
+changeFigure:kc.png -left -next;
+宋柯川:我听了新浪潮。
+changeFigure:gz.png -left -next;
+张谷之:nwobhm，不错，听重金属不听nwobhm就好比喝酸奶只舔盖
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:呃呃传统尺子爬。
+changeFigure:kc_zhangzui.png -left -next;
+宋柯川:我听的是后朋克的那个新浪潮。
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:……没想到你goodbye 70s了。
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:前卫骡子居然还有与流行大捞币和解的一天？
+changeFigure:kc_jiaxiao.png -left -next;
+宋柯川:怎么了？我跌肥荔浦也向大卫白鹅取过经。
+changeFigure:mbv2_liezui.png -left -next;
+莫疏桐:你当真不嫌弃合成器音色了？
+changeFigure:kc.png -left -next;
+宋柯川:是时候与时俱进了，河北汉考克还玩电子三部曲呢。
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:……今天小莫和小宋是不是吃错药了？
+changeFigure:gz.png -left -next;
+张谷之:rh你呢？你最近在听什么？
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:VDGG启动！
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:软绵绵萨克斯，黔驴技穷的玩意。
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:这就是英格兰黑暗美学的鼻祖。
+changeFigure:kc.png -left -next;
+宋柯川:别蹭，我看英格兰黑暗美学至少害得追溯到伯明翰冶金厂。
+changeFigure:gz.png -left -next;
+张谷之:不，英格兰黑暗美学始祖是With the Beatles才对
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:英格兰黑暗美学大跌是谁我不管，可你真不觉得H to He有股For Your Pleasure的气质？
+changeFigure:mbv2.png -left -next;
+莫疏桐:这倒是没错……不过我没想到你会给前卫摇滚平反，你该不会……抛弃九十年代了吧？
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:论缺爱，vdgg不比midwest emo情感充沛多了？
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:我看你今天才是吃错药了吧？
+changeFigure:rh.png -left -next;
+熊若绘:那你说说你最近听了什么？
+changeFigure:gz.png -left -next;
+张谷之:我吗？我在听黑金属。
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:怎么还有人信鞋教？
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:下一步该不会要画尸脸学瓦哥烧教堂了吧……
+changeFigure:close -left -next;
+changeBg:close -next;
+changeScene:episode 10.txt;
+

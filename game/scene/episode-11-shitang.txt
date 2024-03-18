@@ -1,0 +1,36 @@
+changeBg:shitang.jpeg;
+;debug:shitang_flag={shitang_flag}
+jumpLabel:start01 -when=shitang_flag==1
+setVar:shitang_flag=1 -global
+
+未知:是否要对当前场景进行探索？当前探索难度为9，你需要投一个六面骰子，如果探索值+骰子值大于等于9，就说明探索成功。
+choose:探索:exp01|暂时先不探索:episode-11-caochang.txt;
+label:exp01
+setVar:a=random();
+setVar:a=1+a*5;
+setVar:tou=1 -when=a>0.5
+setVar:tou=2 -when=a>1.5
+setVar:tou=3 -when=a>2.5
+setVar:tou=4 -when=a>3.5
+setVar:tou=5 -when=a>4.5
+setVar:tou=6 -when=a>5.5
+setVar:he=exp+tou
+未知:骰子的值为{tou}，探索值为{exp}，和为{he}
+未知:探索成功 -when=he>=9
+jumpLabel:suc -when=he>=9
+未知:探索失败,你需要重新探索，你的hp减1 -when=he<9
+setVar:hp=hp-1 -global;
+未知:你当前的体力值为{hp}.
+changeScene:episode-11-caochang.txt;
+changeScene:game over.txt -when=hp<1;
+label:suc
+未知:捡到一张饭卡
+熊若绘:通常捡到饭卡是要交给失主的;
+饭卡写着失主的名字——石琮;
+我好像认识这个人;
+不管了，反正这个学校都没有人,我就用它在小卖部花钱吧。;
+诶?等等，小卖部没有人，那么是谁在卖东西给我?;
+
+setVar:fanka=1 -global;
+;debug:fanka={fanka}.
+changeScene:episode-11-caochang.txt;

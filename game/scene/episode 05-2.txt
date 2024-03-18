@@ -1,0 +1,142 @@
+;
+changeBg:night.png -next;
+intro:演出结束了|四人伴着台下欢呼声来到后台;
+changeFigure:kc.png -left -next;
+宋柯川:呼，终于结束了。
+changeFigure:gz.png -left -next;
+张谷之:好紧张，好几次solo差点弹错。
+changeFigure:rh_youshang.png -left -next;
+熊若绘:好饿，有吃的没。
+changeFigure:gz.png -left -next;
+张谷之:要不我们点奶茶？
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:好耶！我要点麻薯，加点芋泥，加点黑糖，再加颗冰淇淋！
+changeFigure:gz_liuhan.png -left -next;
+张谷之:你怎么一天到晚就惦记着吃。
+changeFigure:close -left -next;
+bgm:Paintwork.mp3;
+changeBg:corridor.png -next;
+:一路欢声笑语向食堂走去。
+changeFigure:mbv2_youshang.png -left -next;
+莫疏桐:……
+莫疏桐:我……我去趟洗手间。
+changeFigure:gz.png -left -next;
+张谷之:好，我们在这里等你。
+changeFigure:mbv2.png -left -next;
+莫疏桐:不用了，我们之后直接在食堂汇合吧。
+changeFigure:close -left -next;
+:莫疏桐在走廊岔路与三人分别。
+changeBg:milktea.png -next;
+:在喧闹的食堂。
+changeFigure:rh.png -left -next;
+熊若绘:好多人啊。
+changeFigure:gz.png -left -next;
+张谷之:希望有四个人的位置。
+changeFigure:kc_jiaxiao.png -left -next;
+:宋柯川环顾四周，伸头张望。
+changeFigure:kc.png -left -next;
+宋柯川:（用手指着某个方向）那里有位置。
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:你说什么——太吵了我听不见——
+changeFigure:kc_zhangzui.png -left -next;
+宋柯川:（大声）我说——那里有位置——
+changeFigure:gz.png -left -next;
+张谷之:那我们过去吧。
+changeFigure:close -left -next;
+:三人潦草坐下。
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:好喝！下次还点这家。
+changeFigure:close -left -next;
+:Rh点的那杯奶茶已经见底了，Kc嘬着冰美式一脸冷漠，滚直的四季春像是半口没动，就像点给mbv的抹茶一样。
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:（低头看表）二十分钟了，mbv她不会出什么事了吧。
+changeFigure:rh.png -left -next;
+熊若绘:我们给她打个电话吧。
+changeFigure:close -left -next;
+:嘟——嘟——
+changeFigure:gz_shengqi.png -left -next;
+张谷之:食堂好吵啊烦死了。
+changeFigure:close -left -next;
+:许久，电话的另一头终于接通了。
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:喂？莫疏桐你在哪里？我们到食堂了。
+changeFigure:mbv2_youshang.png -left -next;
+莫疏桐:……等一下
+changeFigure:close -left -next;
+:电话的另一头立即挂断了。
+:滚直愣住了，那句“等一下”仿佛听见了，又好像没听见。
+changeFigure:rh.png -left -next;
+熊若绘:怎么样？
+changeFigure:gz_juezui.png -left -next;
+张谷之:她说等一下。该不会真出什么事了吧。
+changeFigure:kc.png -left -next;
+宋柯川:再等等吧。
+changeFigure:close -left -next;
+:又过了二十分钟，莫疏桐出现了。
+changeFigure:mbv2.png -left -next;
+莫疏桐:不好意思大家，久等了。
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:担心死你了，你现在感觉怎么样？
+changeFigure:mbv2.png -left -next;
+莫疏桐:我很好。
+是这样的，我刚刚把前任加回来了。;
+乱骂他一通，发完就把他删了。;
+changeFigure:gz.png -left -next;
+张谷之:你没事就好。
+changeFigure:close -left -next;
+:张谷之搂着莫疏桐，眼泪无声流淌，食堂的嘈杂仿佛也听不见了。
+changeFigure:kc.png -left -next;
+宋柯川:真好。
+changeFigure:rh.png -left -next;
+熊若绘:（对莫疏桐）这是你的抹茶。
+changeFigure:mbv2.png -left -next;
+莫疏桐:谢谢你。
+changeFigure:rh.png -left -next;
+熊若绘:你还要吃点什么吗？我去买。
+changeFigure:mbv2.png -left -next;
+莫疏桐:不用了。
+changeFigure:gz.png -left -next;
+张谷之:rh你是不是又饿了。
+changeFigure:rh_liezui.png -left -next;
+熊若绘:你很了解我嘛。
+changeFigure:kc.png -left -next;
+张谷之:行，我们等会再去买点吃的吧。
+changeFigure:rh.png -left -next;
+熊若绘:可以。
+changeFigure:mbv2.png -left -next;
+莫疏桐:话说，我们要不要补一下……
+changeFigure:gz.png -left -next;
+张谷之:你说。
+changeFigure:mbv2.png -left -next;
+莫疏桐:就是日漫里经典的青春live武道馆上台前的打气动作。;
+之前我上台前太紧张，忘记了;
+你们觉得呢？;
+changeFigure:gz.png -left -next;
+张谷之:可以啊。
+changeFigure:rh.png -left -next;
+熊若绘:不错。
+changeFigure:kc.png -left -next;
+宋柯川:也不是不行。
+changeFigure:mbv2.png -left -next;
+莫疏桐:那我们开始吧。
+changeFigure:close -left -next;
+:四个人围成一圈，先后伸出手，合在一起。;
+changeFigure:mbv2.png -left -next;
+莫疏桐:加油！
+changeFigure:kc.png -left -next;
+:宋柯川笑笑不说话。
+changeFigure:rh.png -left -next;
+熊若绘:耶！
+changeFigure:gz.png -left -next;
+张谷之:牛逼！
+changeFigure:rh_liuhan.png -left -next;
+changeFigure:kc_liuhan.png -right -next;
+Rh&宋柯川:你能别这么土吗？
+changeFigure:close -right -next;
+changeFigure:mbv2.png -left -next;
+莫疏桐:哈哈哈哈哈哈哈哈哈哈…
+changeFigure:close -left -next;
+changeFigure:close -right -next;
+changeBg:close -next;
+changeScene:episode 06 a.txt;
+

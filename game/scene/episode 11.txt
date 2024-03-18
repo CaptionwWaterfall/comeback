@@ -1,0 +1,159 @@
+;
+bgm:scs loops v1.mp3;
+intro:Episode 11|;
+changeBg:shuiye.jpg -next;
+changeFigure:rh.png -left -next;
+熊若绘:我的迪歌生涯始于一阵砰砰的心跳。
+熊若绘:一切都是从奇异的三棱镜开始的。
+熊若绘:根据精神谱系，一切事物都可以由逆转、根源、缺爱三种精神解释。
+熊若绘:月之暗面封面的三角形仿佛是三种精神代表的三边，围成终极的水爷精神。
+熊若绘:这是我听过的第一张专辑。;
+
+changeBg:guest.jpg -next;
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:和月之暗面一同带回家的，是这副熊耳耳机。
+熊若绘:毛茸茸的，好可爱，不枉费我几十大洋。
+熊若绘:我最爱用它听Coldplay，LinkinPark，Nirvana的歌。
+熊若绘:直到我听说“宇宙最佳大碟”OK Computer的存在。
+熊若绘:怪异的声效。颓丧的嗓音，阴郁的歌词，我一头雾水。
+changeFigure:close -left -next;
+changeBg:home.jpg -next;
+老师:RH你每次都是班级前五，怎么二模成绩班级倒数？
+老师:最近状态不太对头啊？没谈恋爱吧？
+changeBg:store.jpg -next;
+:我意外考砸了，放学后学校旁边的麦当当成了我宣泄的据点。
+:~ Fitter happier, More productive, Comfortable|Not drinking too much|Regular exercise at the gym (3 days a week)~
+:耳机里放着Radiohead暴饮暴食奋笔疾书刷题刷了整整两个月。
+changeBg:highschool.jpg -next;
+:所幸我如愿以偿升入最好的高中，当然，身材也走样了。
+同学A:她好奇怪哦，总是独来独往的。
+同学B:那么胖，像头熊一样。
+同学C:还整天戴着副熊耳耳机，更像头熊了。
+同学A:哟，她来了，小点声，我们聊点别的吧。
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:（其实我都听见了）
+changeFigure:close -left -next;
+同学A:嗯……我们家哥哥又出新专辑了。
+同学B:新专你买了吗。
+同学C:还没，如果你要买我们可以一起找代购。
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:切，不如OK Computer半点。
+changeFigure:close -left -next;
+同学C:那又是什么东西？
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:这可是宇宙最佳大碟。
+changeFigure:close -left -next;
+同学A:宇宙最佳大碟？听听。
+changeFigure:rh_youshang.png -left -next;
+:熊若绘的熊耳耳机被揪了下来。
+changeFigure:close -left -next;
+同学A:熊耳摸起来手感还挺好的。
+:~Hey man, slow down, slow down, idiot, slow down, slow down~
+同学A:唱的什么玩意，主唱跟司马一样。
+:耳机被丢在地上，RH将它捡起。
+changeFigure:rh_ziya.png -left -next;
+熊若绘:喂喂喂那可是桶木腰……
+changeFigure:close -left -next;
+同学B:什么桶木腰，我看你的腰才是木桶。
+changeFigure:rh_juezui.png -left -next;
+熊若绘:桶木腰比你们家哥哥高雅多了。
+changeFigure:close -left -next;
+同学C:你再说一遍？
+changeFigure:rh_liezui.png -left -next;
+熊若绘:我说，你们家哥哥，司、马、了、
+changeFigure:close -left -next;
+同学A:揍她！
+:我被拖到天台。
+同学B:哟，你这撮红毛不错嘛（用力一扯）
+changeFigure:rh_kuqi.png -left -next;
+熊若绘:不要扯我头发！
+changeFigure:close -left -next;
+同学C:我要把它剪了（掏出一把剪刀在RH面前挥舞）
+changeFigure:rh_kuqi.png -left -next;
+熊若绘:不要剪——不要——
+changeFigure:close -left -next;
+同学A:扎她！
+changeFigure:rh_kuqi.png -left -next;
+熊若绘:啊——好痛——
+changeFigure:close -left -next;
+changeBg:home.jpg -next;
+:第二天
+同学A:是熊若绘先骂我们的。
+老师:熊若绘你要学会和同学们好好相处，不要总是一个人待着……
+changeFigure:rh_juezui.png -left -next;
+熊若绘:可是是我先被说坏话的哎。
+changeFigure:close -left -next;
+老师:那也不能骂人啊，你明明有更好的解决问题的方式……
+changeFigure:rh_ziya.png -left -next;
+熊若绘:被骂了也不至于打人打三个多小时吧。
+changeFigure:close -left -next;
+:熊若绘卷起袖子露出手臂上斑驳的剪刀划痕。
+老师:被骂了打回去是很正常的事情……
+changeFigure:rh_kuqi.png -left -next;
+熊若绘:……
+changeFigure:close -left -next;
+changeBg:guest.jpg -next;
+changeFigure:rh_youshang.png -left -next;
+熊若绘:真是再也不愿与人打交道了。;
+changeFigure:rh_liezui.png -left -next;
+总听OKC也没什么意思，The Bends也不错不过我也听腻了。;
+看看Radiohead还有什么别的专辑。;
+changeFigure:rh_zhangzui.png -left -next;
+Pablo Honey，什么玩意？;
+好憨的词，歌倒是怪好听的。;
+changeFigure:close -left -next;
+~But I am a creep, I am a weirdo. What the hell am I doing here? I don’t belong here. ~;
+changeFigure:rh_juezui.png -left -next;
+这不就是我本人么？;
+changeFigure:close -left -next;
+三个月后;
+changeFigure:rh_liezui.png -left -next;
+他们还有什么专辑？;
+changeFigure:rh_liuhan.png -left -next;
+Kid A，Amnesiac，什么玩意？;
+changeFigure:rh_chaofeng.png -left -next;
+In Rainbows倒是有点意思。;
+changeFigure:rh_jiaxiao.png -left -next;
+Radiohead还有什么吗;
+changeFigure:rh_juezui.png -left -next;
+呃，原来桶木腰长这样……;
+changeFigure:rh_zhangzui.png -left -next;
+什么？囧尼绿木是色盲？;
+changeFigure:rh_youshang.png -left -next;
+原来Radiohead讨厌Creep啊;
+changeFigure:close -left -next;
+两年后;
+changeFigure:rh_liezui.png -left -next;
+是时候听一些新乐队了。;
+让我去乐评网站上找找看。;
+changeFigure:rh_juezui.png -left -next;
+喂喂喂为什么这么多人都给Pablo Honey打一星？;
+changeFigure:rh_liezui.png -left -next;
+Coldplay首专都有3.5哎;
+changeFigure:rh_ziya.png -left -next;
+凭什么？;
+changeFigure:rh_youshang.png -left -next;
+接触乐评网站前对待这些专辑就像隔着无知之幕对待人。;
+仿佛专辑没有区分，没有差异;
+我感觉我再也回不到对待所有专辑一视同仁的状态了。;
+还是，还是不愿接受Pablo Honey在人们眼中的样子。;
+它本身难道不是一张很棒的专辑吗？;
+changeFigure:close -left -next;
+changeBg:studio.png -next;
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:RH你怎么愣住了？
+changeFigure:rh_youshang.png -left -next;
+熊若绘:没，没什么，想到了一些事情。
+changeFigure:rh.png -left -next;
+熊若绘:还有最后两首歌了，专辑很快就能完结了。
+changeFigure:gz.png -left -next;
+张谷之:好啊。
+张谷之:不过今天看你不怎么活跃嘛。
+changeFigure:rh_liezui.png -left -next;
+熊若绘:怎么，难道还要我钦点一番？不看钦点不舒服是吧？
+changeFigure:gz.png -left -next;
+张谷之:我喜欢你谈论自己喜欢的东西眼神里有光的样子
+changeFigure:close -left -next;
+changeBg:close -next;
+changeScene:episode 12 HE-BCNR.txt;;
+

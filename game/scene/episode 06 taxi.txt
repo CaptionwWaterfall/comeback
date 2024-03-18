@@ -1,0 +1,287 @@
+;
+changeBg:game.png -next;
+changeFigure:mbv2.png -left -next;
+莫疏桐:（看表）时间不早了，我们还是回去吧。
+changeFigure:rh.png -left -next;
+熊若绘:不错，早就想结束司马德式桌游了。
+changeFigure:kc.png -left -next;
+宋柯川:（点头）
+changeFigure:gz.png -left -next;
+张谷之:行，我叫个车。
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘: 好累，不愿再玩司马德式桌游百般算计。
+changeFigure:gz_liuhan.png -left -next;
+张谷之:不是你提议来玩的吗？
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:饭吃过了，KTV也唱过了，唱片店也逛过了，我也实在想不出什么打发时间的方式了。
+changeFigure:kc_jiaxiao.png -left -next;
+宋柯川:不如自由即兴。
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:怎么会有人刚排练完没多久还想接着排练啊？
+changeFigure:close -left -next;
+:滋——
+changeFigure:gz.png -left -next;
+张谷之:（看眼手机）车到了，我们下楼吧。
+changeFigure:close -left -next;
+bgm:bald.mp3;
+changeBg:taxi.png -next;
+:熊若绘坐上副驾，扣上安全带靠在座位上。
+changeFigure:rh.png -left -next;
+:居然这么快就上高架了？
+:也是，现在路况不错，没堵车。
+:RH插上耳机，在音乐播放器里翻找着中意的歌。
+:听些什么好呢？
+changeFigure:close -left -next;
+:~突然のキスや熱いまなざしで~
+changeFigure:rh_ziya.png -left -next;
+:RH耳机愤然一拔
+changeFigure:rh_liuhan.png -left -next;
+:可恶，手滑按到Plastic Love了。
+changeFigure:rh_ziya.png -left -next;
+:City pop司马了。
+:真无聊，怎么做到全程傻乐到底音色平平节奏还毫无起伏的。
+changeFigure:close -left -next;
+:熊若绘呆呆望着车窗。
+changeFigure:rh_liuhan.png -left -next;
+:嚯，尽是些千篇一律的高楼大厦，霓虹灯更是晃得我眼睛疼。
+:真无聊，就像现充爱听的傻乐city pop一样无聊。
+changeFigure:rh.png -left -next;
+:所幸现在是深夜，路上车少。车多起来走走停停才是灾难。
+:高架上飙车还是舒服的……
+changeFigure:rh_youshang.png -left -next;
+:只是……路灯越来越暗了，这个车速还真有点不放心。
+changeFigure:close -left -next;
+:熊若绘下意识搭上车门扶手。
+changeFigure:rh_youshang.png -left -next;
+:车撞上围栏会是什么效果呢？会飞出去吗？
+changeFigure:rh.png -left -next;
+:管它呢，估计那时候我也几乎无法生还了吧。
+changeFigure:rh_youshang.png -left -next;
+:不过，如果我就这样在此终结了呢？
+changeFigure:rh.png -left -next;
+:我无所谓。其他人呢？如何钦点我？我不在乎。
+changeFigure:close-left -next;
+:熊若绘重新插上耳机，接着在音乐播放器里东翻西找。
+:Die Krautrock Explosion？CCC去世前标记的最后一张专辑。
+changeFigure:rh_liuhan.png -left -next;
+:怎么这么巧啊？一想到死就给我推这个？
+:不管了，先听吧。
+changeFigure:close -left -next;
+:RH的耳朵里像是糊着一团紫红色的颜料。
+changeFigure:rh_youshang.png -left -next;
+:话说回来，我的葬礼会是怎样的？
+:……
+changeFigure:close -left -next;
+changeBg:close -next;
+:熊若绘闭上眼思索着。
+bgm:Friendzone.mp3;
+changeBg:funeral.jpg -next;
+:熊若绘睁开眼，发现自己躺在一副棺材里。
+changeFigure:gz.png -left -next;
+张谷之:人生有梦，各自精彩。今天我们之所以相聚在这里，是为了我们共同的朋友，RH，举办她的葬礼。
+changeBg:sky.jpg -next;
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:呃呃不行，这是葬礼，严肃一点。
+changeBg:funeral.jpg -next;
+changeFigure:mbv2.png -left -next;
+莫疏桐:在此，我们向RH的仙逝表示沉痛的哀悼，并向前来悼念的每一位亲朋好友表示最诚挚的敬意！
+changeBg:sky.jpg -next;
+changeFigure:rh_juezui.png -left -next;
+熊若绘:这样还差不多。
+changeBg:funeral.jpg -next;
+changeFigure:gz.png -left -next;
+张谷之:人有悲欢离合，月有阴晴圆缺。生死分合，人世难免。RH虽去，音容宛在。
+changeBg:sky.jpg -next;
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:加一个老套的bridge
+changeBg:funeral.jpg -next;
+changeFigure:mbv2.png -left -next;
+莫疏桐:迪歌不忘钦点人。我们在此不仅是为了向RH告别，更是为了缅怀RH传奇的一生。
+changeBg:sky.jpg -next;
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:起承转合轮到转了。
+changeBg:funeral.jpg -next;
+changeFigure:gz.png -left -next;
+张谷之:熊若绘一生爱好不多，吃饭迪歌钦点音乐，样样精通。她传承暖暖熊精神，发掘世界各地各流派音乐，一生致力于钦点，产生10186条语录。
+changeBg:sky.jpg -next;
+changeFigure:rh_ziya.png -left -next;
+熊若绘:不行，这段还是太戏谑了。
+changeBg:funeral.jpg -next;
+changeFigure:mbv2.png -left -next;
+莫疏桐:熊若绘一直活在我们的记忆中，一直激励着我们。让我们默默祈祷，愿RH在另一个世界能够安息。让我们携手共度这段时光，在共同的爱上中寻找力量，继续前行。
+changeBg:sky.jpg -next;
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:差不多了，速速结尾。
+changeBg:funeral.jpg -next;
+changeFigure:gz_kuqi.png -left -next;
+张谷之:现在，向遗像默哀三分钟。奏哀乐。
+changeFigure:close -left -next;
+:锣鼓喧天鞭炮齐鸣。
+:~嗨~开心的锣鼓敲出年年的喜庆~
+changeBg:sky.jpg -next;
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:嚯，估计有些人迫不及待开香槟呢。
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:不过，前卫骡子还没出现呢。
+changeBg:funeral.jpg -next;
+changeFigure:kc.png -left -next;
+:KC手捧一束石蒜来到棺材前。
+changeBg:sky.jpg -next;
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:嗯，我猜，前卫骡子估计会这样说。
+changeBg:funeral.jpg -next;
+changeFigure:kc.png -left -next;
+宋柯川:这不仅是献给RH的花束，更是献给前卫摇滚的花束。
+changeBg:sky.jpg -next;
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:按照前卫骡子的风格，接下来是不是该观点输出一番？
+熊若绘:从哪个角度开始呢？不如还是经典的……
+changeBg:funeral.jpg -next;
+changeFigure:kc.png -left -next;
+宋柯川:熊若绘的钦点，不过是权力的幻想。
+changeBg:sky.jpg -next;
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:嗯，展开一下
+changeBg:funeral.jpg -next;
+changeFigure:kc.png -left -next;
+宋柯川:通过修辞手法与价值判断树立虚假的权威。
+changeBg:sky.jpg -next;
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:递进一步！
+changeBg:funeral.jpg -next;
+changeFigure:kc.png -left -next;
+宋柯川:修辞手法？运用老掉牙的语料库里简单粗暴的词汇尸上雕花传达蔑视与鄙夷的情感技巧！
+宋柯川:价值判断？基于“90s好70s坏”“indie好prog坏”的骡子价值体系对音乐进行评价！
+宋柯川:运用两者投射或夸大权力，使其看起来令人信服。本质是精神控制，审美霸凌。
+changeBg:sky.jpg -next;
+changeFigure:rh_kuqi.png -left -next;
+熊若绘:说得我自己都有点破防了……
+changeBg:funeral.jpg -next;
+changeFigure:kc.png -left -next;
+宋柯川:这个糟糕的体系正在无尽重复自我复制。
+宋柯川:像套用公式一般，重复一句又一句评价。
+宋柯川:像费拉不堪的法学院傻子一般，套用IRAC的模板。
+宋柯川:你以为你在这钦点？我看你像在这立法典！
+changeFigure:close -left -next;
+changeBg:sky.jpg -next;
+:rh陷入沉默。
+changeBg:funeral.jpg -next;
+changeFigure:kc.png -left -next;
+宋柯川:更何况，这个糟糕的体系永远无法闭环。
+宋柯川:拆东墙补西墙，越到后来越牵强，圆到最后根本圆不上。
+宋柯川:法典还讲究内在道德，你的钦点做到了吗？
+宋柯川:钦点具有一般性吗？你的钦点会针对特定的人。
+宋柯川:钦点的规则会公之于众吗？你从不在主页公布钦点规则并对此表示鄙夷。
+宋柯川:钦点会不溯及既往吗？你还要求别人为佢多年以前不经意的一句标记负责。
+宋柯川:钦点的标准明确吗？钦点总是follow your heart，一如既往模糊不清。
+宋柯川:钦点具有一致性吗？你的字句中充斥着自相矛盾。
+宋柯川:钦点是可行的吗？你不觉得你那3.5和4的差别比1和5的差别都大？
+宋柯川:钦点的标准稳定吗？你今天给凤梨五星，明天给它零分。
+宋柯川:你会严格按照你的钦点规则钦点吗？
+changeBg:sky.jpg -next;
+changeFigure:rh_youshang.png -left -next;
+熊若绘:确实，这就是钦点的本质。
+changeBg:funeral.jpg -next;
+changeFigure:kc.png -left -next;
+宋柯川:令人发指的是，这种范式仍在无序扩张。
+宋柯川:越来越多的追随者被你的钦点吸引而来
+宋柯川:熊若绘你非常美丽，非常才华横溢，非常富有人格魅力。我发誓我没有说谎。
+宋柯川:可你的追随者呢？
+宋柯川:它们不是为你所钦点的作品而来，而是为你钦点的节目效果而来。
+宋柯川:它们羡慕你的幽默，却只学会你的刻薄。
+宋柯川:它们想要拥有你的勇气，却只敢栖息于你的荫蔽。
+宋柯川:你培养出了一群对着虚空一通乱骂除了反刍不学无术的垃圾。
+changeBg:sky.jpg -next;
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:啊啊啊啊啊不要再骂了。我真破防了。
+changeBg:funeral.jpg -next;
+changeFigure:kc.png -left -next;
+宋柯川:万幸的是，熊若绘不是最糟糕的情况。至少，熊若绘吐露了自己的审美倾向。
+宋柯川:比起那些试图不暴露自身观点坐在鄙视链之巅扫射一切的人，熊若绘自有一套体系。
+宋柯川:“只要我不听歌，我就站在鄙视链上层。”
+宋柯川:“永远都是你钦点别人，没有人会钦点你。”
+宋柯川:“你会一直赢下去。”
+宋柯川:比起这些不敢面对真实的自己的懦夫，RH更有勇气。
+宋柯川:不过那又能怎样？每个人都有犯傻的权利。
+:宋柯川轻轻将平躺在棺材中的RH的双手掰开，将那束石蒜放在熊若绘的手心。
+changeBg:sky.jpg -next;
+changeFigure:rh_kuqi.png -left -next;
+熊若绘:你，你在干什么？
+changeBg:funeral.jpg -next;
+changeFigure:kc.png -left -next;
+宋柯川:非常好尸体，爱来自Crimson King
+宋柯川:石蒜送给你，也送给前卫摇滚。
+宋柯川:它的红比KC更艳丽。
+changeBg:sky.jpg -next;
+changeFigure:rh_kuqi.png -left -next;
+熊若绘:不——
+changeBg:funeral.jpg -next;
+changeFigure:kc.png -left -next;
+:KC缓缓合上棺材盖子。
+changeBg:sky.jpg -next;
+changeFigure:rh_kuqi.png -left -next;
+熊若绘:不要—— 
+changeBg:funeral.jpg -next;
+changeFigure:gz.png -left -next;
+张谷之:现在，向熊若绘遗体告别。
+changeBg:sky.jpg -next;
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:好吧！让我缓缓趋势——
+changeBg:sky.jpg -next;
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:啊——
+changeBg:taxi.png -next;
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:啊——
+bgm:viper.mp3;
+changeFigure:rh_kuqi.png -left -next;
+熊若绘:嚯，是场梦啊。
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:RH你怎么了？刚刚一直在尖叫，怎么喊你都不搭理。
+changeFigure:mbv2_zhangzui.png -next;
+changeFigure:kc_zhangzui.png -right -next;
+:熊若绘转过身来看向后排，昏暗的视线里只有三对惊恐的眼神。
+changeFigure:close -next;
+changeFigure:close -right -next;
+changeFigure:rh_youshang.png -left -next;
+熊若绘:我没事，只是做了个噩梦。
+changeFigure:mbv2_youshang.png -left -next;
+莫疏桐:没事就好。
+changeFigure:gz.png -left -next;
+张谷之:吓死我了。
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:……
+changeFigure:close -left -next;
+:熊若绘叹了口气转过身去，低头发现自己紧紧攥着耳机
+:她打开音乐播放器，发现正放着《好日子》
+:熊若绘再次转过身去看向后排
+changeFigure:rh_youshang.png -left -next;
+熊若绘:你们知道吗？我刚刚梦到了自己的葬礼……
+熊若绘:（讲述期间的经过）
+changeFigure:kc_liezui.png -left -next;
+宋柯川:要是你真死了我才不会给你献花呢。
+changeFigure:gz_liezui.png -left -next;
+张谷之:哈哈哈哈哈哈哈哈哈哈好好笑
+changeFigure:gz.png -left -next;
+张谷之:不过，梦中柯川对你说的一点都没错。
+changeFigure:kc_zhangzui.png -left -next;
+宋柯川:我才不会这么说话，我只会说你的逆转精神不够彻底，被更逆转的精神逆转了。
+changeFigure:kc.png -left -next;
+宋柯川:当然这是好事。世界是立体的，表面上看你被逆转回原点，而不过是横截面视角，纵向上看你在上升。
+changeFigure:gz_liuhan.png -left -next;
+张谷之:呃呃你想表达的是不是螺旋式上升……好啊，你又在抄别人的经。
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:我看前卫骡子才是通过修辞手法与价值判断树立虚假权威的幻想权力者，真是彻彻底底继承你宋爹。
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:可我还是想不通为什么会梦到这个？
+changeFigure:mbv2.png -left -next;
+莫疏桐:说不定是钦点之神给你的启发呢……;
+祂和你一样，拥有一对熊耳。;
+changeFigure:rh_ziya.png -left -next;
+熊若绘:得了吧我要狠狠逆转祂。
+changeFigure:gz.png -left -next;
+张谷之:这下要打破第五面墙了。
+changeFigure:close -left -next;
+changeBg:close -next;
+changeScene:episode 07-1 funeral.txt;
+

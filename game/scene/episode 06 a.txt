@@ -1,0 +1,147 @@
+;
+bgm:LA.mp3;
+intro:Episode 6|Comeback首演结束后的第一天;
+changeBg:studio.png -next;
+:在排练室
+changeFigure:gz.png -left -next;
+张谷之:上次演出反响不错，是时候试着做一张全长专辑了！
+changeFigure:kc.png -left -next;
+宋柯川:还挺有挑战性的，可以试试。
+changeFigure:rh.png -left -next;
+熊若绘:全长专辑写些什么呢？
+changeFigure:mbv2.png -left -next;
+莫疏桐:不如我们先各自写些自己擅长的东西？
+changeFigure:gz.png -left -next;
+张谷之:不错。
+changeFigure:rh.png -left -next;
+熊若绘:好耶。既然大致思路定下来了，我们先去吃炸鸡如何？
+changeFigure:gz.png -left -next;
+张谷之:我们不是刚吃完烤肉吗？
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:没吃饱。
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:……
+changeFigure:rh_youshang.png -left -next;
+熊若绘:好吧，我只点我自己的，我自己去拿。
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:别啊，给我点一份！
+changeFigure:mbv1.png -left -next;
+莫疏桐:我也要，记得加甘梅粉。
+changeFigure:kc.png -left -next;
+宋柯川:嗯……我要加黄芥末。
+changeFigure:gz.png -left -next;
+张谷之:那我还要份番茄酱！
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:真受不了你们……行吧，我点好了。
+changeFigure:close -left -next;
+:一小时后
+changeFigure:rh.png -left -next;
+熊若绘:炸鸡到了。大家都写了些什么呢？
+changeFigure:gz.png -left -next;
+张谷之:（电吉他一弹）
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:老保这是又抄了哪段十二小节布鲁斯？
+changeFigure:gz_shengqi.png -left -next;
+张谷之:？
+changeFigure:gz.png -left -next;
+张谷之:疏桐呢？进度如何？
+changeFigure:mbv1_youshang.png -left -next;
+莫疏桐:再等等，我还没拧出理想的音色。
+changeFigure:kc_zhangzui.png -left -next;
+宋柯川:最经典的音色也能弹，关键还是看技术。
+changeFigure:mbv2_juezui.png -left -next;
+莫疏桐:可是……音色也很重要啊，就像你也不喜欢80年代合成器音色那样。
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:行吧，确实厕。
+changeFigure:gz.png -left -next;
+张谷之:这样吧，大家先吃炸鸡休息一下。
+changeFigure:close -left -next;
+:又一小时后
+changeFigure:kc_zhangzui.png -left -next;
+宋柯川:熊若绘你这鼓打的什么玩意，怎么比尼克曼森还没感情？
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:你好意思说我？你那萨克斯吹的又是什么玩意？乱糟糟的。
+changeFigure:kc.png -left -next;
+宋柯川:再怎么说也比VDGG有力。
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:我看连VDGG都不如。
+changeFigure:kc_zhangzui.png -left -next;
+宋柯川:总比文雅流行里费拉不堪的萨克斯好。
+changeFigure:mbv2.png -left -next;
+莫疏桐:不要再吵啦！你们觉得这个音色如何？（合成器一拧）
+changeFigure:kc.png -left -next;
+宋柯川:像赌场爆金币的铜臭味，有点俗。
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:你怎么说话的？
+changeFigure:kc.png -left -next;
+宋柯川:你好意思说我？你这Lo-fi开得是在弹黑金属吗？
+changeFigure:gz_shengqi.png -left -next;
+张谷之:你……
+changeFigure:rh_youshang.png -left -next;
+熊若绘:好饿，要不要点奶茶，我好想喝黑糖芋泥麻薯冰淇淋。
+changeFigure:gz.png -left -next;
+张谷之:冰淇淋红茶少冰无糖谢谢。
+changeFigure:mbv1.png -left -next;
+莫疏桐:我要芝芝莓莓去冰三分糖~
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:……我就不用了。
+changeFigure:close -left -next;
+:又过去了一个小时。
+changeFigure:rh.png -left -next;
+熊若绘:奶茶到了。;
+changeFigure:rh_youshang.png -left -next;
+（顿顿顿）芋泥有点硬。;
+changeFigure:mbv2.png -left -next;
+莫疏桐:那这个音色呢？（合成器二拧）
+changeFigure:kc.png -left -next;
+宋柯川:还不错，差强人意。;
+不过还是太流行了，难免让人想起八十年代那群现充玩意。;
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:你这是不是有点过于苛刻了？
+changeFigure:kc.png -left -next;
+宋柯川:第一张全长嘛，对自己严格一点好不好。
+changeFigure:gz_liuhan.png -left -next;
+张谷之:那你萨克斯能不能也别吹得那么随意啊。
+changeFigure:kc_zhangzui.png -left -next;
+宋柯川:这叫即兴。
+changeFigure:rh_youshang.png -left -next;
+熊若绘:好无聊……我们什么时候吃晚饭啊。
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:中午吃了顿烤肉，下午点了份炸鸡，刚刚还喝了杯奶茶，怎么没排几分钟你又饿了？
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:你不觉得我们现在排的东西很无聊吗？每次都在重复同样的东西，越来越熟练了是不假，可思路感觉也越来越僵化了。就像70年代中后期的前卫摇滚一样，又臭又长又陈腐。
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:你再说一遍？我看你是没好好练吧。
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:前卫摇滚后期就是没活了啊。
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:软弱无力的资本主义厠比玩意有什么资格锐评前卫摇滚陈腐？
+changeFigure:mbv1_youshang.png -left -next;
+莫疏桐:别吵了。不过我确实觉得现在有些单调。;
+changeFigure:mbv1.png -left -next;
+要不这样吧，我们这几天听些过去不喜欢的流派？;
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:别想不开啊。
+changeFigure:rh_youshang.png -left -next;
+熊若绘:这不自讨苦吃？
+changeFigure:mbv1.png -left -next;
+莫疏桐:或者……不了解的流派也行。就当踏出舒适圈了嘛。
+changeFigure:kc.png -left -next;
+宋柯川:我同意。隐秘的大师需要汲取来自各方的灵感。
+changeFigure:rh_youshang.png -left -next;
+熊若绘:真受不了……
+changeFigure:rh.png -left -next;
+熊若绘:不过，有意思。
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:喂喂喂你们怎么都同意了？;
+changeFigure:gz.png -left -next;
+那好吧，看在疏桐的份上，我接受。;
+changeFigure:mbv2.png -left -next;
+莫疏桐:就这样一言为定啦！那好，今天就先排练到这里，明天再说。
+changeFigure:rh.png -left -next;
+熊若绘:好耶，开饭咯！
+changeFigure:close -left -next;
+changeBg:close -next;
+changeScene:episode 06 game.txt;
+           
+

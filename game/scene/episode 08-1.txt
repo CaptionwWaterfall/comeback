@@ -1,0 +1,225 @@
+;
+bgm:动力小子2首单.wav;
+intro:Episode 8;
+intro:「是結束得不夠浪漫吧 你才這麼不捨得她|如果永遠也離不開她 你便會更害怕」|——my little airport「回到中學的暑假」;
+changeBg:highschool.jpg -next;
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:疏桐你再不快点就要迟到了！
+changeFigure:mbv.png -left -next;
+莫疏桐:来了来了！（脚步声渐近）
+changeFigure:close -left -next;
+:“看，这次又是她们两个还没到…”
+:“没座位了，只能坐最后一排，好惨。”
+:张谷之拉着莫疏桐的手。
+changeFigure:gz.png -left -next;
+:迟到当然不重要，步伐迈太大才更麻烦。
+:当然如果实在着急的话，我也不是不可以把她扛起来跑。
+changeFigure:mbv.png -left -next;
+莫疏桐:（气喘吁吁）谢谢你愿意等我。
+changeFigure:gz.png -left -next;
+张谷之:这话好像你昨天才刚认识我一样。
+changeFigure:mbv.png -left -next;
+莫疏桐:（不好意思地笑）我一直都是这样…
+changeFigure:gz.png -left -next;
+张谷之:（打断）你还记得老师课上讲的那个成语吗？形容关系很好的…
+changeFigure:mbv.png -left -next;
+莫疏桐:是“相敬如宾”。
+changeFigure:gz.png -left -next;
+:张谷之本来想说“情同手足”，但她发现莫疏桐是认真的。
+张谷之:所以“相敬如宾”是形容夫妻的对吧！？
+changeFigure:mbv_keai.png -left -next;
+莫疏桐:（慌张）我不是那个意思…
+changeFigure:gz_shengqi.png -left -next;
+张谷之:好好听课能怎么你？
+changeFigure:close -left -next;
+changeBg:store.jpg -next;
+:（中午时间，食堂。）
+changeFigure:mbv.png -left -next;
+莫疏桐:你听过 Sonic Youth 吗？
+changeFigure:gz_liuhan.png -left -next;
+张谷之:（汗颜）你昨天语文课是在听这个对吧…
+changeFigure:mbv_juezui.png -left -next;
+莫疏桐:可是 A Thousand Leaves 真的很好听啊！
+changeFigure:gz.png -left -next;
+张谷之:我只听过蜡烛封面的那张啦。”Teen Age Riot” 让我想起pixies。
+changeFigure:mbv_chijing.png -left -next;
+莫疏桐:（惊讶）呀！快看那个男生… 好好看。
+changeFigure:gz.png -left -next;
+张谷之:还可以吧。稍等我，我去认识一下… 似乎是四班的。
+changeFigure:gz -left -next;
+:张谷之离席，不久归来。
+changeFigure:gz.png -left -next;
+张谷之:我要到了那个男生的QQ，他叫bly。
+changeFigure:mbv.png -left -next;
+莫疏桐:谢谢你…
+changeFigure:gz.png -left -next;
+张谷之:周末要不要约他出去看场电影？
+changeFigure:close -left -next;
+:（音乐停，黑幕。）
+changeBg:guest.jpg -next;
+:（周六，莫疏桐家中。）
+changeFigure:mbv.png -left -next;
+:这是部小谷期待很久的电影，我本来以为她会只约我去看。
+:她从来都说话直来直去，约上别人肯定也不是对我有意见…
+:而且，谁会拒绝好看的男孩子呢。
+:不过只需要想象一下那副场面就能明白，我还是更想和小谷单独去看… 这算是在逃避社交吗？…
+:莫疏桐接到了张谷之的电话。
+changeFigure:gz.png -left -next;
+张谷之:哈喽哈喽！
+changeFigure:mbv.png -left -next;
+莫疏桐:周末好呀…
+changeFigure:gz.png -left -next;
+张谷之:好期待那部电影！
+changeFigure:mbv.png -left -next;
+莫疏桐:你跟bly说了明天看电影的事情吗？
+changeFigure:gz.png -left -next;
+张谷之:还没有呢。你愿意叫上他吗？
+changeFigure:mbv.png -left -next;
+莫疏桐:谁会拒绝好看的男孩子呢？
+changeFigure:gz.png -left -next;
+:她首先想到的一定是只和我一起去看。
+:可我和她的关系反正不差这一部电影。她和bly的关系却可能就差这一部电影。
+:她表达过好感的男孩子倒有很多，真正有点啥的是一个没有。
+张谷之:社恐被美男子治好啦？
+changeFigure:mbv.png -left -next;
+莫疏桐:当然… 没有！说实话还是会有点担心表现得不自在，所以…
+changeFigure:gz.png -left -next;
+张谷之:没事没事！你不多试试怎么行？
+张谷之:那就一言为定。明天九点在电影院见咯？
+changeFigure:gz_liuhan.png -left -next;
+:（扶额）她是不是有点太依赖我了…
+:或者做得更绝一点？
+:她可别怪我吧…
+changeFigure:close -left -next;
+changeBg:store.jpg -next;
+:（周日，电影院。）
+Bly:你好，你是… 莫疏桐么？
+changeFigure:mbv.png -left -next;
+莫疏桐:是的…
+:（沉默。）
+changeFigure:mbv_kuqi.png -left -next;
+莫疏桐:（焦急）小谷不接电话。
+:在这种时刻放鸽子也太可恶了…
+changeFigure:close -left -next;
+Bly:可能是有什么急事吧… 那只能我们先看了。我去取票。
+changeFigure:mbv.png -left -next;
+莫疏桐:好… 麻烦你了。
+changeFigure:mbv_kuqi.png -left -next;
+:小谷到底是什么意思啊… 
+changeFigure:close -left -next;
+
+changeBg:film.jpg;
+:（电影开场。）
+
+changeBg:home.jpg -next;
+:（周日，中午，张谷之家门口有敲门声。）
+changeFigure:gz.png -left -next;
+张谷之:mbv，对不起。（打开门）
+changeFigure:mbv_kuqi.png -left -next;
+莫疏桐:…
+:Mbv哭着，扑到gz怀里。
+changeFigure:gz_kuqi.png -left -next;
+张谷之:对不起… （揉揉mbv）
+changeFigure:mbv.png -left -next;
+莫疏桐:…电影和男孩子都很好看…
+changeFigure:gz.png -left -next;
+张谷之:（疑惑）？那你哭什么
+changeFigure:mbv_kuqi.png -left -next;
+莫疏桐:我忍不住去想和你一起看那部电影… 
+莫疏桐:你还记得我们从小学就一起去图书馆借书，约着去电影院看院线片。我最喜欢我们在里面压低声音，贴近对方耳朵窃窃私语的时候。
+莫疏桐:就，呃，在安静的场合中，分享只有对方能听到和理解的快乐。
+莫疏桐:你不觉得世界很嘈杂吗？每天和陌生的人接触… 但我感觉咱们俩永远能互相听到。清晰地听到。
+莫疏桐:我只是不习惯没有… 我害怕…
+changeFigure:gz_kuqi.png -left -next;
+张谷之:我明白了…（抱得更紧）
+changeFigure:mbv1_youshang.png -left -next;
+莫疏桐:下次请不要不经商量放我鸽子了…
+莫疏桐:问题当然不是不守信，而是…
+changeFigure:mbv_kuqi.png -left -next;
+莫疏桐:…我害怕你不辞而别。
+changeFigure:close -left -next;
+changeFigure:gz_kuqi.png -left -next;
+张谷之:明明世界上不会有人比我距离她更近了，我还是辜负了她。
+张谷之:…某种意义上，我第一次伤害了她。我第一次感到如此强烈的被需要…
+changeFigure:close -left -next;
+changeBg:highschool.jpg -next;
+:（高三，早晨上学，早读前。）
+changeFigure:mbv_wuyu.png -left -next;
+莫疏桐:好无语啊… 我还是劝不动他们
+changeFigure:gz.png -left -next;
+张谷之:还是晚自习？
+changeFigure:mbv.png -left -next;
+莫疏桐:你听我嗓子都哑了… 昨天晚上吵架吵的。
+changeFigure:gz.png -left -next;
+张谷之:（轻轻拉她的手）不要太担心啦… 等到高三过去，我们上了大学就好了。
+changeFigure:mbv.png -left -next;
+莫疏桐:但现在的压力已经让我有点......再上晚自习的话我还是不知道自己能不能扛住。
+changeFigure:gz.png -left -next;
+张谷之:我陪你的话你会好点吗？
+changeFigure:mbv.png -left -next;
+莫疏桐:啊？（犹豫）但是… 你现在这个水平晚自习也学不了啥了吧，你放学后有那么多事情可以做…
+changeFigure:gz.png -left -next;
+张谷之:没关系的。实在不行你有啥题不会我写下来给你讲。就当我自己复习了。
+changeFigure:mbv.png -left -next;
+莫疏桐:好......
+changeBg:guest.jpg -next;
+changeFigure:mbv.png -left -next;
+莫疏桐:（星星眼）我觉得今天一天晚上比我自己闷头两周还有效果！
+changeFigure:gz.png -left -next;
+滚直:跟你说了让你多去找老师。
+changeFigure:mbv.png -left -next;
+莫疏桐:可是老是抢不到位置......
+changeFigure:gz.png -left -next;
+张谷之:也是，啊反正没事了，这不就体现我的作用了嘛！
+changeFigure:mbv.png -left -next;
+:她真是越来越动人了。感觉这样真的好幸福…
+:但是，这样会不会耽误她的学习啊…
+changeFigure:gz.png -left -next;
+:Gz吻了她的额头。Mbv没法思考了。
+张谷之:我送你回家。
+changeBg:stars.jpg -next;
+:她们牵着手走出教学楼。夜空中星星闪烁。
+changeFigure:mbv.png -left -next;
+莫疏桐:他们宣传的那一套高中每天晚上奋斗完的星空好像也有点道理呢......
+changeFigure:gz.png -left -next;
+张谷之:是啊，咱俩都特别有成就感对不对？
+changeFigure:mbv.png -left -next;
+莫疏桐:是… 
+莫疏桐:但我们还能一起这样看几次呢？
+changeFigure:close -left -next;
+changeBg:guest.jpg -next;
+:（一周后，夜晚，莫疏桐家中。）
+changeFigure:mbv1_youshang.png -left -next;
+:还是有点担心耽误她的学习…
+:要不明天和她商量一下吧。
+changeFigure:close -left -next;
+:（第二天，下午放学。）
+changeBg:highschool.jpg -left -next;
+changeFigure:mbv.png -left -next;
+莫疏桐:认真地说，你陪我上晚自习，会耽误你的学习的。你要教给我的有那么多，自己提升却几乎没有时间…
+changeFigure:gz.png -left -next;
+张谷之:跟你说了嘛。我学的差不多了，这样复习也挺好的。
+changeFigure:mbv.png -left -next;
+莫疏桐:但是万一…
+莫疏桐:我觉得，我不能连续几个月强迫一个人占用她的时间。
+changeFigure:gz.png -left -next;
+张谷之:呃呃，没有人强迫我…
+changeFigure:mbv.png -left -next;
+莫疏桐:（打断）但我曾经说过害怕和你分开。你不用因为顾及我…
+changeFigure:gz.png -left -next;
+张谷之:所以你觉得我是担心你的分离焦虑才去陪你上晚自习的？
+changeFigure:mbv.png -left -next;
+莫疏桐:（抽泣）我不知…
+changeFigure:gz.png -left -next;
+张谷之:（打断）我真的没有觉得不舒服或者被强迫。
+张谷之:我们是这么久的朋友，为你付出我不觉得有任何吃亏的地方。
+:张谷之抱住莫疏桐。
+changeFigure:mbv.png -left -next;
+莫疏桐:谢谢你（抽泣）…
+changeFigure:gz.png -left -next;
+张谷之:我那时油然而生的想法是，她愿意需要我，我真是太幸福了。
+changeFigure:close -left -next;
+changeBg:close -next;
+changeScene:episode 08-2.txt;
+
+

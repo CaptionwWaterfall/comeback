@@ -1,0 +1,209 @@
+;
+bgm:chuch.mp3;
+intro:「And the bird it has flown|To a place on it's own|Somewhere all alone」|——Deep Purple「Bird Has Flown」;
+intro:Comeback演出后一周;
+changeBg:corridor.png -next;
+:深夜，张谷之一人来到排练室。
+changeFigure:gz_liuhan.png -left -next;
+张谷之:下午没好好排练，晚上来还债了。;
+changeFigure:gz_zhangzui.png -left -next;
+新专辑到底写什么，毫无头绪啊。;
+changeFigure:gz_juezui.png -left -next;
+这可没什么标准答案。;
+changeBg:studio.png -next;
+changeFigure:gz_zhangzui.png -left -next;
+诶，怎么灯还亮着？今天她们排练完没关灯吗。;
+我的琴没收就算了，可这个声音……合成器也开着？KC的萨克斯怎么还留在这？;
+今天是根本没收拾么？;
+changeFigure:gz.png -left -next;
+明天和她们说一声。;
+怎么说好呢。;
+changeFigure:gz_liuhan.png -left -next;
+不管了先写歌吧，不然明天怎么交差。;
+changeFigure:close -left -next;
+changeBg:bedroom.jpg -next;x
+:几个小时前
+changeFigure:rh_ziya.png -left -next;
+熊若绘: 你是不是只会写些费拉不堪的玩意？
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:你行你上啊。
+changeFigure:close -left -next;
+changeBg:studio.png -next;
+changeFigure:gz_juezui.png -left -next;
+张谷之:再试一次……
+changeFigure:close -left -next;
+:犹疑中，滚直弹出几个和弦。;
+changeFigure:gz_juezui.png -left -next;
+张谷之:不行，好啰嗦，再改改;
+changeFigure:close -left -next;
+:刚刚那段旋律听上去凌厉了许多。
+changeFigure:gz_juezui.png -left -next;
+张谷之:还是不满意，重写吧。可恶。;
+要是能像她们三个一样懂乐理就好了啊！;
+坦白地说，每次走进这间录音室我都会焦虑。;
+和她们三个的才华比起来，我是如此平庸。;
+用KC的话说，她们三个现在都是有逆转精神的人了。;
+changeFigure:close -left -next;
+changeBg:bedroom.jpg -next;
+changeFigure:rh_ziya.png -left -next;
+熊若绘:张谷之你还要划水划到什么时候？真当这是小组作业摆烂等着被带飞啊？
+changeFigure:gz_shengqi.png -left -next;
+张谷之:啊对对对我是在划水，我也不想划的，倒是谁来想想办法啊。
+changeFigure:kc.png -left -next;
+宋柯川:我想我们该试试公爵作曲法了。
+changeFigure:gz_liuhan.png -left -next;
+张谷之:说人话。
+changeFigure:close -left -next;
+changeBg:studio.png -next;
+changeFigure:kc.png -next;
+:音乐上，柯川无疑是最经验丰富的的人。;
+虽说她经常神神叨叨把什么隐秘的大师什么公爵作曲法挂在嘴边，喜欢突如其来插入一段萨克斯故弄玄虚;
+但她确确实实精通我这辈子都学不完的乐器，还擅长自由即兴。;
+她到底是如何学会这些的？; 
+难以想象没有柯川上次演出结果又会是如何，她是全场唯一没出错的人。;
+她就是她的偶像Robert Fripp的翻版，我们不过是她的工具人。;
+changeFigure:close -next;
+changeBg:bedroom.jpg -next;
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:好啦，这才是你！
+没有熊若绘那么逆转，没有宋柯川那么死爹，没有莫疏桐那么缺爱。;
+changeFigure:rh_liezui.png -left -next;
+当然现在也不缺了。;
+changeFigure:rh_chaofeng.png -left -next;
+你是张谷之，是Comeback四个女孩中，最平庸的一个。;
+changeFigure:gz_shengqi.png -left -next;
+:张谷之吉他一摔。;
+changeFigure:close -left -next;
+changeBg:studio.png -next;
+changeFigure:rh_jiaxiao.png -next;
+:若绘呢，就像这家伙自己说的那样，除了吃饭睡觉钦点之外别无爱好;
+一副睥睨众生的样子，粗野放肆蔑视一切秩序自相矛盾地锐评音乐;
+金句频出无人能及，有时候听了真想一拳打爆这家伙的头;
+今天下午还刚和她吵了一架，说我写歌没活。;
+可我明白她本质刀子嘴豆腐心，看似插科打诨实则日理万机。;
+接二连三设计出那么多富有变化的beat，却又能做到不像数摇骡子玩数牌子的游戏。;
+目前为止她的写歌贡献仅次于柯川。;
+bgm:ilkae.mp3;
+changeFigure:close -next;
+changeBg:bedroom.jpg -next;
+changeFigure:mbv2_shengqi.png -left -next;
+莫疏桐:你们不要再吵啦！
+changeFigure:mbv2_keai.png -left -next;
+要不先写solo吧，你们觉得这段怎么样？;
+changeFigure:close -left -next;
+:莫疏桐熟练地弹奏
+changeFigure:kc.png -left -next;
+宋柯川:不错，有意思。;
+如果是Comeback是前卫摇滚乐队，你一定是carry全队的键盘手。;
+changeFigure:rh_reverse.png -left -next;
+熊若绘:真要如此，小宋你就是被压榨的工具人啦！
+changeFigure:kc.png -left -next;
+宋柯川:那又如何？总比什么都写不出来好。
+changeFigure:mbv2.png -left -next;
+莫疏桐:我们先休息一下吧。
+changeFigure:kc.png -left -next;
+宋柯川:可以。
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:真是心累。
+changeFigure:close -left -next;
+changeBg:studio.png -next;
+changeFigure:mbv2.png -next;
+:至于莫疏桐，自从上次演出后像是换了个人。;
+从小跟在我身后情同手足的小姑娘，如今已能独当一面。;
+学合成器一个多月，已经达到了被KC认可的水平。;
+听了她今天下午弹的那段solo，我自惭形秽。;
+她真是越来越像Tony Banks，而我并不是合格的Mike Rutherford;
+我连句像样的riff都写不出来，吉他水平还停留在原地。;
+我恐怕有朝一日不再被她需要了。;
+不，她已经不需要我了。;
+changeFigure:close -next;
+changeBg:bedroom.jpg -next;
+changeFigure:mbv2_keai.png -left -next;
+莫疏桐:差不多了，我们继续排练吧。
+changeFigure:kc.png -left -next;
+宋柯川:行。
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:这一段是合成器先弹，然后吉他跟进……
+changeFigure:rh_juezui.png -left -next;
+诶，小张人呢？;
+changeFigure:mbv2_youshang.png -left -next;
+莫疏桐:刚刚休息就没看见她。
+changeFigure:close -left -next;
+changeBg:studio.png -next;
+:我后来一声不吭离开不是因为与若绘吵了架，而是疏桐那段solo。;
+趁着排练中间的闲暇，我走了。;
+一声招呼也没打，一句话也没说，就像九三年巡演中默默离开深紫的李黑多。;
+她曾说过，她害怕我不辞而别。;
+我想这次，她不会害怕了。;
+changeFigure:gz_zhangzui.png -left -next;
+（看表）天呐，快一个小时了，我还什么都没写。;
+今天我都在胡思乱想些什么。;
+不写点东西出来明天可没办法交差。;
+changeFigure:close -left -next;
+:半小时后
+changeFigure:mbv2_zhangzui.png -left -next;
+莫疏桐:滚直你怎么在这里！
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:啊！疏桐！
+changeFigure:gz.png -left -next;
+吓死我了，你怎么来了？;
+changeFigure:mbv2_youshang.png -left -next;
+莫疏桐:你现在怎么样了？为什么下午一声不吭就走了？
+changeFigure:gz_juezui.png -left -next;
+张谷之:因为……因为我觉得我不配和你们一起排练。;
+你会拧合成器，若绘懂beat，柯川什么都会。;
+我费拉不堪，连首完整的歌都写不出来。;
+我的吉他水平你也清楚，且不说技术毫无长进，老本都不够啃。;
+changeFigure:mbv2.png -left -next;
+莫疏桐:可是没有你，我们四个八竿子都打不着的人不会在一起玩乐队。
+changeFigure:gz.png -left -next;
+张谷之:我也只认识你们了。;
+我不是什么主动的人，我经常害怕面试不敢投简历。;
+changeFigure:mbv2.png -left -next;
+莫疏桐:这些都不重要。我信赖你的审美和想象力本身。;
+changeFigure:gz_kuqi.png -left -next;
+张谷之:（强忍着不抹眼泪）
+changeFigure:mbv2.png -left -next;
+莫疏桐:你还记得我们看CSC演出那天吗？
+那天晚上我们拼车遇到小川说要组乐队，你问我要不要一起来。;
+我当时只想着能有更多时间和你在一起，就答应了。;
+你知道的，实际上那时我什么乐器都不会。;
+为了能和你玩乐队，每天晚上都来这里练琴。;
+changeFigure:gz_kuqi.png -left -next;
+张谷之:（搂住莫疏桐）怪不得合成器是开着的，我以为你们今天排练完忘记关掉了。
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:这么晚了你们仨在这里干什么呢？
+changeFigure:gz_liuhan.png -left -next;
+张谷之:熊若绘你该不会又在偷拍吧。
+changeFigure:rh_reverse.png -left -next;
+熊若绘:我可没偷拍你们俩，我说你们仨。
+changeFigure:rh_reverse4.png -left -next;
+小宋你刚刚一直站在门外看什么呢。;
+changeFigure:kc_zhangzui.png -left -next;
+宋柯川:我还想问你呢。这么晚了你来这里做什么？
+changeFigure:rh_liezui.png -left -next;
+熊若绘:我来这里做什么？我大晚上饿疯了来买夜宵，路过发现排练室灯还亮着，过来看看而已。
+changeFigure:gz.png -left -next;
+张谷之:那么柯川你呢？
+changeFigure:kc_zhangzui.png -left -next;
+宋柯川:我？我忘记把萨克斯带走了，想把它拿回来。
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:可你为什么一直站在门外观望不进去呢？
+changeFigure:kc.png -left -next;
+宋柯川:后来我打消了这个念头，彻底放弃了，不如就此放手吧。
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:真受不了你，怎么连忘拿乐器都能说得如此纠结。;
+changeFigure:rh_chaofeng.png -left -next;
+要不这样吧。既然今晚大家都来了，那么不如接着把下午没排完的部分补上？;
+changeFigure:mbv2.png -left -next;
+莫疏桐:（点头）
+changeFigure:gz.png -left -next;
+张谷之:没问题。
+changeFigure:kc.png -left -next;
+宋柯川:有意思。
+changeFigure:close -left -next;
+:即兴刷锅水的味道充满了整个房间。
+changeFigure:close -left -next;
+changeBg:close -next;
+changeScene:episode 09.txt;;;;;
+

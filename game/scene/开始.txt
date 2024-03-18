@@ -1,0 +1,12 @@
+bgm:s_Title.mp3;
+unlockBgm:s_Title.mp3 -name=雲を追いかけて;
+intro:你好|欢迎来到具有逆转精神的世界;
+changeBg:bg.png -next;
+unlockCg:bg.png -name=良夜; // 解锁CG并赋予名称
+changeFigure:stand.png -left -next;
+setAnimation:enter-from-left -target=fig-left -next;
+暖暖熊:没有逆转精神的玩意！早该涂涂乐！ -v1.wav;
+changeFigure:stand2.png -left -next;
+setAnimation:enter-from-left -target=fig-left -next;
+changeScene:episode 01-1 rh.txt;
+;

@@ -1,0 +1,6 @@
+; 初始场景，以及特效演示
+bgm:white awakening.mp3;
+unlockBgm:white awakening.mp3 -name=白色惊醒;
+intro:你好|欢迎来到具有逆转精神的世界;
+changeScene:episode 01-1 rh.txt;
+;

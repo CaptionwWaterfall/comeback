@@ -1,0 +1,35 @@
+;debug:xmb_flag={xmb_flag}
+changeBg:xmb.jpeg
+jumpLabel:start01 -when=xmb_flag==1
+setVar:xmb_flag=1 -global
+;debug:fanka={fanka}
+
+
+label:start01
+未知:这里是小卖部，要买东西吗？
+
+
+未知:同学,你没有饭卡，请滚出去 -when=fanka==-1;
+changeScene:episode-11-caochang.txt -when=fanka==-1
+setVar:money=10 -global;
+未知:你的饭卡有{money}元，要买些什么？
+
+choose:[money>=5]->登龙剑:dlj|[money>=2]->熊博士口嚼糖:tang|离开:end;
+label:dlj
+
+setVar:money=money-5;
+未知:获得登龙剑
+setVar:atk=atk+3 -global;
+未知:攻击力上升3点，现在的攻击力为{atk}
+jumpLabel:end
+changeScene:episode-11-xiaomaibu.txt
+
+label:tang
+未知:获得熊博士口嚼糖
+setVar:money=money-2;
+setVar:hp=hp+5 -global;
+未知:hp上升5点，现在的体力为{hp}
+changeScene:episode-11-xiaomaibu.txt
+
+label:end
+changeScene:episode-11-caochang.txt

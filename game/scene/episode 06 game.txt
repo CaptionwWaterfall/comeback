@@ -1,0 +1,242 @@
+;
+bgm:outkast.mp3;
+changeBg:night.png -next;//脚本：暖暖熊、cupric、curbom
+:晚餐过后，四人在排练室休息
+changeFigure:gz.png -left -next;
+张谷之:好累啊，接下来我们要去干什么呢？
+changeFigure:rh.png -left -next;
+熊若绘:排练过后实在是太激动了，学习是不可能的了。
+changeFigure:gz.png -left -next;
+张谷之:那我们一起出去玩吧，玩狼人杀怎么样？
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:呃呃
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:那要不三国杀
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:司马了;
+changeFigure:rh_chaofeng.png -left -next;
+不如我们去玩一些高雅的桌游;
+changeFigure:gz.png -left -next;
+张谷之:哎呀，熊若绘你这个小公举，是不是连玩都得要玩得优雅点？
+changeFigure:rh.png -left -next;
+熊若绘:我就喜欢迪，万物皆可迪，玩什么当然也得迪一迪才知道自己喜欢什么
+changeFigure:gz.png -left -next;
+张谷之:不会又要玩什么德国自闭算分桌游吧
+changeFigure:rh.png -left -next;
+熊若绘:不必了，这次我来带你们玩点好康的轻策，叫做「唱片公司」
+changeFigure:kc_zhangzui.png -left -next;
+宋柯川:不想去
+changeFigure:rh_liezui.png -left -next;
+熊若绘:这个桌游里面可是有King Crimson的哦
+changeFigure:kc.png -left -next;
+宋柯川:什么玩意儿，那我去看看
+changeFigure:gz.png -left -next;
+张谷之:疏桐呢？
+changeFigure:rh.png -left -next;
+熊若绘:当然也有My Bloody Valentine
+changeFigure:mbv2.png -left -next;
+莫疏桐:好的，我去（乖巧）
+changeFigure:close -left -next;
+changeBg:game.png -next;
+:（到了桌游包间）
+changeFigure:rh.png -left -next;
+熊若绘:我开了包夜房间，可以一直玩桌游到晚上
+:首先我来科普一下「唱片公司」的规则
+:（提示：若错过某条规则可以在下方「回想」中查看|若无意详细了解规则可点击下方「快进」，再次点击屏幕后退出快进模式）
+:目标:通过签下乐队、发行专辑、提升专辑销量和赢得音乐奖项，获得最多的得分。
+:然后是基本元素和材料，一共是四种卡片：
+:（1）乐队卡:各有特色和效果，例如提升专辑的某个属性。
+:（2）专辑卡:含有费用、艺术价值和流行度等信息，可以在灵感区获得或与他人交易。
+:（3）制作人卡:能够提供专辑的不同buffs，如增加流行度或艺术价值。
+:（4）奖项卡:基于艺术价值或其他因素，提供额外得分。
+:接着是游戏流程，分为六段
+:（1）准备阶段:玩家获得初始专辑卡、资金和制作人卡。将乐队卡和专辑卡放置在公共区域供玩家选择和交易。
+:（2）行动阶段:每位玩家依次执行以下动作，共四步:
+:A. 乐队签约:从市场选择一个乐队卡并支付费用。
+:B. 获取专辑:从灵感区获取一个专辑卡或与其他玩家交易专辑卡。
+:C. 专辑发布:选择一张乐队卡和一张专辑卡，支付专辑费用后发布专辑。
+:D. 制作人运用使用制作人卡，为专辑添加buff。
+:（3）市场阶段:所有玩家已发布的专辑基于其流行度进入排行榜，并根据排名获得相应的销售利润。
+:（4）奖项阶段:基于专辑的艺术价值评选奖项，获奖者获得额外分数和资金奖励。如果两个或更多的专辑艺术价值相同，将考虑其流行度作为决定因素。
+:（5）回合结束:清空灵感区，并从专辑卡牌堆中补充新的专辑卡。轮到下一个玩家进行行动阶段。
+:（6）游戏结束:在预定的回合数后或某些牌卡用尽时，游戏结束。根据销售利润、获奖分数和其他可能的得分来源，计算每个玩家的总分。最高的玩家获胜。
+:玩家需平衡艺术价值和流行度，确保在音乐排行榜和奖项上都能获得得分。
+changeFigure:rh_liezui.png -left -next;
+熊若绘:各位有什么问题咩？
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:...
+changeFigure:gz_liuhan.png -left -next;
+张谷之:...
+changeFigure:mbv2_liuhan.png -left -next;
+莫疏桐:...
+changeFigure:rh_liezui.png -left -next;
+熊若绘:好那我们开始游戏，边玩边教学～
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:我的回合，我先支付50金，签约乐队「Radiohead」，并从灵感区获得专辑「OK Computer」
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:蛙趣，你这是上来就要开大啊
+changeFigure:rh.png -left -next;
+熊若绘: 接下来是你们的回合了，我需要几个回合的冷却时间才能把专辑制作出来
+changeFigure:gz_juezui.png -left -next;
+张谷之: 呃呃，没什么喜欢的乐队，我先攒钱吧，选择攒钱+20金
+changeFigure:mbv2_juezui.png -left -next;
+莫疏桐:我支付30金签下slowdive，但是好像灵感区没有slowdive专辑呢
+changeFigure:rh.png -left -next;
+熊若绘:只要是盯鞋专辑就行，不一定非要是slowdive的
+changeFigure:mbv2_liezui.png -left -next;
+莫疏桐:好，我买下黑土地
+changeFigure:kc_liuhan.png -left -next;
+宋柯川: 怎么也没有KC捏，我签下「Pink Floyd」吧，获得专辑「The Dark Side of the Moon Redux」
+changeFigure:close -left -next;
+:由于目前没有音乐发行，暂时无法评奖
+changeFigure:rh.png -left -next;
+熊若绘:我的回合，我使用制作人「Steve Albini」，可以为专辑的艺术价值+5，当专辑的Genre为「后硬核」时，+10，我发行专辑「OK Computer」！
+changeFigure:gz_juezui.png -left -next;
+张谷之: 还是没有什么喜欢的乐队，我签下「Limp Bizkit」吧，看着流行度不错。
+changeFigure:mbv2_keai.png -left -next;
+莫疏桐:我的回合，我使用制作人「The Tourist」，可以为专辑的艺术价值+5，当专辑的Genre为「盯鞋摇滚」时，+10，我发行专辑「Darklands」！
+changeFigure:kc_jiaxiao.png -left -next;
+宋柯川:呵呵，你们还需要制作人，懂不懂PF Boys的含金量，在电脑还没被发明之前，PF就已经在用真空管制作音乐了;
+changeFigure:kc.png -left -next;
+发动「Pink Floyd」的一技能，支付10金，为专辑艺术价值+5，并发动二技能「绘制封面」，支付10金，为专辑流行度+10，发行「The Dark Side of the Moon Redux」;
+changeFigure:close -left -next;
+:市场阶段，第一名，The Dark Side of the Moon Redux，第二名Darklands，第三名OK Computer
+changeFigure:rh_ziya.png -left -next;
+熊若绘:可恶，居然卖了倒数第一
+changeFigure:gz_liezui.png -left -next;
+张谷之:Radiohead确实是这样的
+changeFigure:rh_chaofeng.png -left -next;
+熊若绘:没关系，我发动Radiohead的技能「炒作」，支付100金，为Radiohead的流行度+20
+changeFigure:mbv2_kuqi.png -left -next;
+莫疏桐:呜呜，这也太超模了一点
+changeFigure:close -left -next;
+:奖项阶段
+changeFigure:rh.png -left -next;
+熊若绘:使用「合作」机制，摸一张乐队牌，若和「Radiohead」Genre契合可以专辑艺术价值+10，商业价值+10，不契合则-5 -5
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘: 我超，老鹰
+changeFigure:gz_liezui.png -left -next;
+张谷之:哈哈哈哈哈哈
+changeFigure:close -left -next;
+:由于rh艺术价值-5，第一名是The Dark Side of the Moon Redux，获得一个「Best New Music」奖项
+changeFigure:rh_kuqi.png -left -next;
+熊若绘: 没有钱了，只能发动乐队「Eagles」了
+changeFigure:gz.png -left -next;
+张谷之: 发行专辑「Chocolate Starfish and the Hotdog Flavored Water」，并签下「Nirvana」
+changeFigure:mbv2_keai.png -left -next;
+莫疏桐: 终于抽到Slowdive新专辑「everything is alive」了
+changeFigure:kc.png -left -next;
+宋柯川: 发动Pink Floyd的三技能「一年一专」，当专辑发行后的下一回合，可以立即制作出一张专辑;
+changeFigure:kc_jiaxiao.png -left -next;
+就决定是你了，「Animals」！;
+changeFigure:kc.png -left -next;
+发动「Pink Floyd」的一技能，支付10金，为专辑艺术价值+5，并发动二技能「绘制封面」，支付10金，为专辑流行度+10;
+changeFigure:rh_ziya.png -left -next;
+熊若绘:蛙趣，这还让不让人玩了
+changeFigure:close -left -next;
+:市场阶段，第一名，Chocolate Starfish and the Hotdog Flavored Water，第二名，Animals
+changeFigure:kc_liuhan.png -left -next;
+宋柯川: 呃呃，前卫卖不过新金属，这市场是否太厕了点
+changeFigure:gz.png -left -next;
+张谷之:不会真有人不爱听软饼干吧，不知道那些天天听着潮核潮金潮前卫的乐迷有什么理由喷软饼干，你们玩的东西人家十几年前就把路铺好了。
+changeFigure:close -left -next;
+:奖项阶段，Animals获得「Best New Music」
+changeFigure:kc_liezui.png -left -next;
+宋柯川: 不愧是我的好水爷，在水爷面前，你们其他乐队只有销量乐评争第二的份
+changeFigure:rh.png -left -next;
+熊若绘:乐队在发行前还需要抽取事件“命运”
+changeFigure:kc.png -left -next;
+宋柯川:（抽取）debuff「成员离队」，支付10金且艺术价值-5；引发讨论，流行度+5
+changeFigure:kc_jiaxiao.png -left -next;
+宋柯川:呃呃，没关系，只是syd走了而已
+changeFigure:rh.png -left -next;
+熊若绘: 我的回合，我发行单曲「加州旅馆」，同时「Radiohead」发行单曲「Creep」
+changeFigure:gz.png -left -next;
+张谷之:这是在干啥？做单曲型乐队？
+changeFigure:kc.png -left -next;
+宋柯川: Radiohead除了「Creep」之外确实没什么别的能听的了
+changeFigure:mbv2.png -left -next;
+莫疏桐:发行Slowdive专辑「everything is alive」，我使用制作人「The Tourist」，艺术价值+10。;
+然后发动事件「银行贷款」，支付500金，制作「Loveless」。;
+changeFigure:gz.png -left -next;
+张谷之:制作「Nevermind」
+changeFigure:kc.png -left -next;
+宋柯川: 签下乐队「King Crimson」，制作专辑「大红脸」;
+同时，发动Pink Floyd的三技能「一年一专」，当专辑发行后的下一回合，可以立即制作出一张专辑;
+changeFigure:kc_liezui.png -left -next;
+就决定是你了，「Wish You Were Here」！;
+changeFigure:kc_jiaxiao.png -left -next;
+根据「Wish You Were Here」的效果，当成员离队时，可以使这张专辑流行价值+20;
+changeFigure:close -left -next;
+:市场阶段，第一名「加州旅馆」，第二名，「Creep」，第三名「Wish You Were Here」，第四名「everything is alive」
+:艺术阶段，「Wish You Were Here」获得「Best New Music」。
+changeFigure:rh_liuhan.png -left -next;
+熊若绘:呃呃，这PF真的是闹麻了，这玩意儿有任何的艺术价值吗？
+changeFigure:kc.png -left -next;
+宋柯川:呵呵，总比某天天想着要彻底消失的把头装进水缸里拍MV的颓丧白男强。
+changeFigure:close -left -next;
+: 进入「伍德斯托克音乐节」事件，在这个回合发行的音乐将前往「伍德斯托克音乐节」，并获取丰厚的艺术价值加成
+changeFigure:rh.png -left -next;
+熊若绘:我来一波大的，发动Radiohead的技能「炒冷饭」，可以把一张发行过的专辑再次发行，发行「OK Computer OKNOTOK 1997 2017」;
+使用乐评杂志「Wire」，当专辑的Genre为「Experimental」时，流行度+10，我使用制作人「Steve Albini」，可以为专辑的艺术价值+5;
+changeFigure:kc.png -left -next;
+宋柯川: britpop就是britpop，你贴再多experimental标签也是
+changeFigure:rh_liuhan.png -left -next;
+熊若绘: 前摇骡子差不多得了，离了你宋爹是不是就不会说话了
+changeFigure:gz.png -left -next;
+张谷之: 发行专辑「Nevermind」，使用「Nirvana」的技能「紫砂」，「Nirvana」从游戏中除外，将一张「Foo Fighters」或者「Courtney Love」加入手卡，为专辑的流行度+30.
+changeFigure:mbv2.png -left -next;
+莫疏桐: 发行「Loveless」
+changeFigure:kc.png -left -next;
+宋柯川: 发行专辑「大红脸」。
+changeFigure:gz.png -left -next;
+张谷之:大红脸是吧，我发动乐评人「RC」，对「大红脸」的艺术价值-20，对「OKC」的艺术价值-15，并对「Nevermind」的艺术价值+10，对「Loveless」的艺术价值+5
+changeFigure:rh_ziya.png -left -next;
+熊若绘: 滚直，你太过分了，居然搬出RC这种贵物，Nevermind是人听的吗？
+changeFigure:kc.png -left -next;
+张谷之: Radiohead才是傻逼听的，尤其是你这种贝斯都弹不好的人装逼听的。
+changeFigure:rh_juezui.png -left -next;
+熊若绘:你再骂？再怎么着Nirvana就是狗都不听的，很难想象你这种精神老白男还孝课本这样的傻逼，再不济也比课本强吧。
+changeFigure:gz.png -left -next;
+张谷之: 课本再不济也比桶木腰强，课本敢一枪把自己崩了，桶木腰只敢在歌里写写「How to Disappear Completely」，然后拿出来炒作。
+changeFigure:rh.png -left -next;
+熊若绘: 我发动乐评人「RYM小逼」，对「大红脸」艺术价值+10，「OKC」+10，「Loveless」+10，「Nevermind」-10
+changeFigure:gz_shengqi.png -left -next;
+张谷之: 你不要太过分
+changeFigure:kc.png -left -next;
+宋柯川: 我发动乐评人「Prog Archives」，「大红脸」+10，其他全部-10.
+changeFigure:mbv2.png -left -next;
+莫疏桐: 我发动乐评人「NME」，「Loveless」+10，其他全部-5.
+changeFigure:close -left -next;
+:市场阶段，1.Nevermind，2.OKC 3.大红脸 4.Loveless
+:奖项阶段 1.Loveless 2.大红脸 3.Nevermind 4.OKC，Loveless获得「Best New Music」。
+changeFigure:rh_ziya.png -left -next;
+熊若绘: 可恶，都是你干的好事，为什么要发动rc这种卡
+changeFigure:gz_liuhan.png -left -next;
+张谷之:你的RYM小逼也够恶心人的
+changeFigure:rh_ziya.png -left -next;
+熊若绘: 还是不因为你先发动了RC这种老厕所
+changeFigure:gz_shengqi.png -left -next;
+张谷之: rym小逼也配嘲讽老厕所，一个日本乐队一个动机重复40分钟做张专辑都能成为rym小逼的爹
+changeFigure:rh_liezui.png -left -next;
+熊若绘: Fishmans？ Fishmans比你听的那些老掉牙的乐队好多了。
+changeFigure:gz_liuhan.png -left -next;
+张谷之: Fishmans的Dub做的一点都不正,做的跟弹簧似的，跳舞都跳不起来，恶心感与舒适感并存，吉他音色也不如极地双子星
+changeFigure:mbv2_shengqi.png -left -next;
+莫疏桐: 呃呃，怎么把我妈拿出来了
+changeFigure:mbv2_liuhan.png -left -next;
+不过我挺喜欢Fishmans的;
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:这张专辑能理解成Dub，脑子基本可以捐了，理解成梦泡，更可以重开了，还尼玛“舒适感与恶心感并存”，你还不如直接说我就是讨厌佐藤伸治的傻逼夹子音，你妈的臭逼也是舒适感与恶心感并存。
+changeFigure:gz_zhangzui.png -left -next;
+张谷之: 你再骂？你至于骂得这么难听吗？
+changeFigure:rh_zhangzui.png -left -next;
+熊若绘:我骂得就是你，只知道听那些老掉牙的布鲁斯，没有共情能力的东西，富二代是不是都是这样的？
+changeFigure:gz_shengqi.png -left -next;
+张谷之: 呵呵你个做题家，贝斯都弹不明白，当然不知道我们根源精神的好，只知道对着那些颓丧音乐Emo。
+changeFigure:close -left -next;
+changeBg:close -next;
+changeScene:episode 06 taxi.txt;
+
+
+

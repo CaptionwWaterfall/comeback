@@ -1,0 +1,203 @@
+intro:Episode 13;
+
+bgm:9.A huge work honor branch.mp3;
+
+intro:「She knows that I've been doing something wrong|But she won't say anything|She thinks that I was with my friends yesterday|But she won't mind me lying」|——Kate Bush「Mother Stands For Comfort」;
+changeBg:a11-room.png;
+:莫疏桐开始整理自己的处境。;
+changeFigure:mbv1_youshang.png -left -next;
+:她被困在这个由弟弟旧房间改造的临时收容所内，一日三餐都是由陈小梅送进来，在她的再三哀求下，陈小梅还是展现了一些作为母亲的怜悯，把她的手机还给了她。;
+changeFigure:mbv1_keai.png -left -next;
+:她紧急联系了逆转计划的其余三位成员，幸运的是，这几位回复的速度远超她的预估。;
+changeFigure:rh_youshang.png -left -next;
+熊若绘:……所以现在你是被禁足了？
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:[表情包]
+changeFigure:rh_liezui.png -left -next;
+熊若绘:那你打算怎么办？
+changeFigure:mbv1_liuhan.png -left -next;
+莫疏桐:（边无奈苦笑边打字）还能怎么办，我现在除了上厕所连房间门都出不去，门锁着，家里一天24小时都有人
+changeFigure:rh_ziya.png -left -next;
+熊若绘:翻窗呢？
+changeFigure:mbv1_juezui.png -left -next;
+莫疏桐:……四楼，还有防盗窗
+changeFigure:kc_liuhan.png -left -next;
+熊若绘:报警可以吗
+changeFigure:mbv1_youshang.png -left -next;
+:莫疏桐一时语塞，不知道该回什么，报警？且不说警察受理与否，就算受理也会被父母搪塞过去吧……;
+changeFigure:kc_zhangzui.png -left -next;
+宋柯川:家暴一般都不受理，更何况父母管教小孩，你不如先纵火后报警，重演大红脸
+changeFigure:gz_juezui.png -left -next;
+张谷之:呃呃前摇骡子你够了
+changeFigure:rh_liezui.png -left -next;
+熊若绘:呃呃前摇骡子你够了
+changeFigure:kc_doudouyan.png -left -next;
+宋柯川:那要不换水上烟，我从地图上看你家旁边就是条河
+changeFigure:rh_juezui.png -left -next;
+熊若绘:？你还没完了是吧
+changeFigure:gz_zhangzui.png -left -next;
+张谷之:[表情包]
+changeFigure:rh_youshang.png -left -next;
+熊若绘:讲点靠谱的，你不是要去她家隔壁市看演出来着，顺路捞个人呗
+changeFigure:kc_liezui.png -left -next;
+宋柯川:要是小莫再说的晚一点，我可能就坐过她家了，现在刚下高铁
+changeFigure:rh_liezui.png -left -next;
+熊若绘:姐我错了，你是大英雄
+changeFigure:mbv1_youshang.png -left -next;
+莫疏桐:天，我妈刚刚把相亲对象的照片发给我了，说下周去见面。
+bgm:11.Joke From Hell.mp3;
+changeFigure:mbv1_doudouyan.png -left -next;
+莫疏桐:我第一次见到现实里有U字发际线的。。。
+changeFigure:mbv1_ziya.png -left -next;
+莫疏桐:还留了胡子……看起来能当我叔
+changeFigure:mbv1_youshang.png -left -next;
+莫疏桐:[图片]
+changeFigure:rh_jiaxiao.png -left -next;
+熊若绘:(无语表情)你爸妈这是要你去傍大款吗
+changeFigure:mbv1_shengqi.png -left -next;
+莫疏桐:也不至于，那位看着也没什么钱
+changeFigure:kc_jiaxiao.png -left -next;
+宋柯川:看着像U熊，这照片放小蓝上应该挺受欢迎
+changeFigure:mbv1_liezui.png -left -next;
+莫疏桐:……沙东风范是这样的
+changeFigure:kc_jiaxiao.png -left -next;
+宋柯川:我觉得我可以曲线救国
+changeFigure:rh_reverse.png -left -next;
+熊若绘:你打算干嘛
+changeFigure:kc_jiaxiao.png -left -next;
+宋柯川:不是说没什么人愿意和你相亲了么
+宋柯川:如果这个也社会性死亡了，至少短时间内你爸妈找不到什么人了，至少可以争取点时间
+changeFigure:rh_ziya.png -left -next;
+熊若绘:我怎么没懂你想干嘛
+changeFigure:kc_liezui.png -left -next;
+宋柯川:送他上公务员系统热搜
+changeFigure:close -left -next;
+
+:在老钟的语境内，毁掉一个女人的社会评价过于简单，而相同的方法用在男性的身上则有些不痛不痒。
+这样的秩序依托着腐朽的性观念，在东亚这片畸形的温床上暗暗滋生。而对宋柯川而言，这套规则更像她的玩物，;
+抛开后现代对爱欲机制的解构，本质上还是光脚不怕穿鞋的老套权力关系。;
+changeFigure:kc_reverse.png -left -next;
+:她已经很久没有试过这样的游戏了。;
+changeFigure:kc_jiaxiao.png -left -next;
+:这个时代的人一向喜欢在冗杂的信息中嚼食那些吸引眼球的八卦，既然如此，那她就送沙东的父老乡亲一场狗血八点档，当作给这片孔孟之乡的见面礼。;
+
+:在这个时代找到一个人的其他网络账号并不困难，当看到同样的照片出现在某知名约炮app的账号头像上时，宋柯川有种大力王附体的欲绷未绷感。;
+changeFigure:kc_zhangzui.png -left -next;
+:当她拿着注册的假帐号开始利用平台的打招呼机制假装偶然刷到对方，俗话说独乐乐不如众乐乐，还没聊几句，她就没忍住把聊天记录截图发到逆转群聊里。;
+changeFigure:mbv1_keai.png -left -next;
+莫疏桐:救命怎么比我想得还要油腻，感觉就差说“丫头，你引起了我的注意”了
+changeFigure:kc_liezui.png -left -next;
+宋柯川:还是有点优点的，一般看了我发在主页的网络擦边照都会直接发阳具图片，他还算内敛一点
+changeFigure:rh_liezui.png -left -next;
+熊若绘:说不定是太小了，没自信发
+changeFigure:mbv1_liuhan.png -left -next;
+莫疏桐:……柯川你其实没有必要做到这个程度的，怎么可以麻烦你和这种人一起……
+changeFigure:kc_keai.png -left -next;
+:宋柯川忍不住挑起了眉，这种程度是什么程度？;
+changeFigure:kc_shengqi.png -left -next;
+宋柯川:（哦对，忘了她也有点被傻逼老钟性羞耻洗脑了）
+changeFigure:kc_liuhan.png -left -next;
+宋柯川:没事，你真不用放在心上，我睡过那么多也不差这一个，更何况你现在重要多了;
+:说完这句她切回了和相亲对象的聊天框，不知道为什么，她似乎有些害怕看到mbv的回答，难道其实暗中她也和mbv一样被这种性羞耻pua着吗？
+纵观她的过去似乎并非如此，那她究竟在纠结和逃避什么呢？算了，不管了，现在搞定这位才最重要。;
+bgm:BIPP.mp3
+:接下来一切顺利到令宋柯川诧异，她甚至没用几句聊骚经验里的句子，对面这位就开始和她聊起诗词歌赋人生哲学了。;
+
+:当他激愤地和她吐槽莫言的《活着》是如何抹黑中国人时，她适时的表示了对他文学素养的仰慕，
+当他自豪地表示自己吉他技艺高超弹首《成都》不成问题时，她憋着笑回了个非常傻白甜的赞美。;
+当他陶醉地描述梅西七场五点球吊打帽子戏法的姆巴佩拿到世界杯冠军时，她忍住对汗脚骡子的鄙夷表达了对这位阿根廷球王的祝贺;
+
+
+:如此几回合下来，这位自诩文化造纸和艺术修养双赢的优秀沙东男性认为自己已经将这位网络上萍水相逢的少女迷得七荤八素，
+当他发了条自以为帅气的气泡音语音条，邀请她后天来某酒店一叙衷肠，少女的回答颇有种欲拒还迎的风情，令他更着迷了。;
+changeFigure:kc_keai.png -left -next;
+changeBg:13-binguan.jpg;
+:宋柯川见到他本人的时候，硬在脑子里点了首Island才压住了嘴角的上扬，下一秒便换上一副见到偶像般的神情，
+后面的事情便乏味可陈，当她趁对方睡着拍下裸体合照时，;
+看到他生殖器的具体大小后才认同rh说的对，这个大小如果被他发出来，多少有点人设的ooc。;
+changeFigure:kc_doudouyan.png -left -next;
+:对于她来说，只要有足够的证据在相亲当天制造一场混乱，借口尿遁的mbv就有充足的时间从餐馆逃走，
+changeFigure:close -left -next;
+莫疏桐这几天的乖巧也成功迷惑了陈女士，得到了在家中行走的自由，;
+自由到能让她把身份证甚至户口本上自己的那一页都偷偷藏起，顺便买好回去的车票。;
+
+changeBg:13-canguan.jpg;
+:一周的时间说快不快说慢不慢，当mbv表面乖巧地坐在一家餐馆内看着面前的U熊先生，脸上的笑容不免僵住;
+changeFigure:mbv1_liuhan.png -left -next;
+莫疏桐:（os）kc我真的欠你好大一个人情……对不起……
+changeFigure:kc_juezui.png -left -next;
+:媒婆和两家母亲开始了客套尬聊，这种场景实在是过于枯燥无味，
+在即将发生的一切的衬托下宛如暴风雨前的宁静，U熊先生的发言与之前相亲对象的相差无几，;
+餐馆中人来人往好不热闹。;
+这片土地粘腻而混沌的意志底色在她眼中缓慢地流淌着，在浓重的口音与觥筹交错间弥漫着，;
+而今日是她向这片土地道别的日子，以一场滑稽的闹剧斩断她与故乡之间如同枷锁一般的脐带。;
+changeFigure:close -left -next;
+:到时间了。她按计划提出想上厕所，在母亲的默许下落荒而逃。;
+:宋柯川目送着她的背影，在心里默默计时着，一分钟左右过后，她换上那副傻白甜的表情
+changeFigure:kc.png -left -next;
+宋柯川: 啊呀，安康！你今天陪家里人出来吃饭吗？
+bgm:Metro.mp3
+: 名为李安康的U熊一转头，看到kc的一瞬间仿佛被雷击了一样，愣在原地不敢搭话。;
+
+: 李安康的母亲和媒婆一齐看向她，她今天故意穿着比较亚比，和mbv的好嫁风形成鲜明对比。;
+changeFigure:kc_zhangzui.png -left -next;
+宋柯川: 哎呀安康还没和你们说吗？没事的，那就我来介绍一下吧，我是安康新交的女朋友，小宋，今天不碰巧，没给阿姨们带点东西，改天啊我和安康一起请大家吃饭好不好？
+changeFigure:kc_juezui.png -left -next;
+: 她这番话一说完，饭桌上剩余的几位脸色可是精彩纷呈，疑惑震惊之余便是恼怒。;
+changeFigure:kc_shengqi.png -left -next;
+安康母亲: 你个小妮子怎么说话的！我们家安康和你又不认识，上这来打秋风是吧！
+changeFigure:kc_liuhan.png -left -next;
+宋柯川: 阿姨你怎么能这么说？我是他女朋友啊，不信你问他！
+changeFigure:kc_ziya.png -left -next;
+李安康母亲: （拽过李安康）来你说，你认不认识她？
+changeFigure:kc_keai.png -left -next;
+安康: （语气嗫嚅）我……我不认识
+changeFigure:kc_kuqi.png -left -next;
+:宋柯川拼命抑制着嘴角得逞的笑意，下一秒则切换到一副委屈愤怒的样子;
+changeFigure:kc_chenmo.png -left -next;
+宋柯川: 李安康！你怎么可以这么对我，明明那天晚上你和我说会把我娶进门的！
+changeFigure:kc_youshang.png -left -next;
+: 她偷偷狠掐了一把大腿，硬是挤出几滴泪珠，掏出手机，里面明晃晃的是两个赤裸的身形，
+女生只露出了脸，却把李安康身上的特征拍的清清楚楚，就和孙答应的赤色鸳鸯肚兜一样抵赖不得。;
+changeFigure:kc_wuyu.png -left -next;
+李安康: （脱口而出）你还拍了照片？！
+changeFigure:kc_liezui.png -left -next;
+: 眼见似乎是mbv妈妈的那一位脸色变得更黑了，媒婆连忙解释;
+changeFigure:close -left -next;
+媒婆: 哎呀莫太太您别生气，这边貌似出了点小岔子，我给您介绍的您放心，不会错的。
+changeFigure:kc_keai.png -left -next;
+bgm:KateBush.mp3
+陈小梅: （愠怒）我放什么心？现在还在介绍呢就能从哪蹦出来一个女朋友，等结婚了是不是还要我们家贴钱给他在外面养女人啊？！
+
+李安康妈妈: 哎亲家母你这说的是什么话！我们马上把这个处理好，您别生气别生气。
+
+李安康妈妈: （转头向kc）你是哪家的疯子来我们这碰瓷啊！我们家安康可是正经孩子，现在照片都能p的，想讹钱是吧，好我们报警！
+
+李安康: （突然）不能报警！
+changeFigure:kc_jiaxiao.png -left -next;
+宋柯川: 看着眼前发抖的男人，差点笑出声来，没想到事情顺利到这个程度，沙东男宝妈的含金量真是不可小觑。
+
+:李安康妈妈震惊地转头，一句话似乎让眼前的局势更加扑朔迷离了起来。她张了张嘴却不知道说什么好。她有些不敢去看陈小梅的脸色，眼神一时无处可放。;
+changeFigure:close -left -next;
+陈小梅: 够了！你们的事情自己处理好再来，我家疏桐不是给这种人来糟践的！
+
+: 她起身要走，突然想起自己女儿还在上厕所，四处张望找厕所的时候，橱窗外一处飘摇的衣角引起了她的注意。
+
+: 她一时不知道该作何反应，理智提醒她应该跑过去抓住那个逃走的孩子，
+她是一笔丰厚的彩礼，是向凌以后的依仗，不能放她就这么走了;
+但她回头望向还在纠缠着的媒婆和那个穿着不三不四的女孩，手脚顿时变得无力;
+她突然想起那个孩子小时候，稚嫩柔软的声音喊着妈妈，她也曾那么爱过这个孩子，无关她的性别，只是因为她是自己的骨血。;
+changeBg:mbv_cover.jpg
+: 橱窗外的女儿与橱窗内的闹剧仿佛是两个世界，她曾经甚至也差点成为这种闹剧的主角，想要扯着小三的衣领大骂，却被孩子和周遭的目光扼住了咽喉，
+她已经陷在泥潭中无法自拔，麻木到甚至忘了自己在用同样的方式，将女儿也拉下沼泽。;
+
+:将她关着的这一周，丈夫和儿子的冷漠与她的揪心似乎完全无关，她知道女儿在做什么，却不知为何不愿去多想，也许她不愿再做他们的伥鬼，将一个无辜的孩子压榨至极。
+:她想不到这些大道理，身体里母亲的本能却阻止着她，也许她还是爱这个孩子的。
+
+:既然这样，孩子，走吧，妈妈对不起你，还你自由是妈妈唯一能为你做的了。
+
+:就当带着妈妈的愿望，好好活出一个人样。
+
+
+:这是莫疏桐这辈子做过的最浪漫的幻想，在她逃离的路上和母亲对视的那一眼，
+:她说不清母亲的眼神中是否是她所看到的这些，但既然她选择了放自己自由，那便足以。

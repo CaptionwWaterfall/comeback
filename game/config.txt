@@ -1,0 +1,6 @@
+Game_name:Comeback;
+Game_key:37f4dd4e0d7a04c;
+Title_img:profile.jpg;
+Title_bgm:逆转计划主题曲（feat MF Doom Minnie Riperton 暖暖熊.wav;
+Description:适合迪哥宝宝体质的逆转精神galgame;
+Package_name:cmbk;

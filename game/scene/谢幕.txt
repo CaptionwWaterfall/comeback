@@ -1,0 +1,6 @@
+intro:制作名单|原作 暖暖熊（豆瓣广播 连载）|企画 暖暖熊/破艇/Max|系列构成 Max|合成&美术 破艇|监督 暖暖熊;
+intro:音乐 暖暖熊/The Tourist/兴趣使然|OP 逆转计划主题曲（feat MF Doom Minnie Riperton 暖暖熊|ED white awakening-兴趣使然（原唱：Les Rallizes Denudes）;
+intro:分集脚本|第一集 1-1破艇 1-2无色之红 1-3岁鸢/Max|第二集 2-1Max 2-2Max 2-3Max/破艇|第三集 Max/暖暖熊/破艇/无色之红|第四集 4-1Max/无色之红 4-2破艇 4-3破艇|第五集 5-1无色之红 5-2破艇|第六集 6-1破艇 6-2暖暖熊/Cupric/Curbom|（桌游设计 暖暖熊） 6-3破艇
+intro:分集脚本|第七集 7-1破艇 7-2无色之红|第八集 Max|第九-十二集 HE破艇;
+intro:制作|ReplacementSoft·Comeback制作委员会|东亚Brockhampton嘻哈研究中心|01.03.2024;
+end;

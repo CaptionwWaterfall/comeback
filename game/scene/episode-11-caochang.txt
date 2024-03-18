@@ -1,0 +1,23 @@
+;debug:caochang_flag={caochang_flag}
+;debug:hp={hp}
+changeBg:highschool.jpg
+jumpLabel:start01 -when=caochang_flag==1
+setVar:caochang_flag=1 -global
+
+未知:这里是操场，连通着小卖部、食堂、微机楼和教学楼。
+熊若绘:通常，这里都被雾霾所笼罩;
+操场给我一种灰蒙蒙的感觉，像是莫奈的画;
+如果神用城市来表达他的某种原型与集体无意识，那我想曼彻斯特和河北省大概是同一种原型的表达;
+也难怪河北抽象贵物张曼乐会去曼彻斯特留学;
+心情是没有皮特你就是个蛋!;
+通常在每天的5点40,所有的班级都会来这里跑操;
+但现在操场上空无一人;
+如果我提升一分，我就可以在全省排名甩开一操场的人，哈哈哈哈哈哈哈哈;
+
+
+
+label:start01
+未知:这里是操场，连通着小卖部、食堂、微机楼和教学楼。
+
+;debug:fanka={fanka}
+choose:去小卖部:episode-11-xiaomaibu.txt|去食堂:episode-11-shitang.txt|去微机楼:episode-11-weijilou.txt|去教学楼:episode-11-jiaoxuelou.txt;

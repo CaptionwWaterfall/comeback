@@ -1,0 +1,81 @@
+
+changeBg:zoulang.jpeg
+;debug:jxl_flag={jxl_flag}
+jumpLabel:start01 -when=jxl_flag==1
+setVar:jxl_flag=1 -global
+熊若绘:每次走到学校的走廊，我都会非常忌惮;
+我的教导主任是个大腹便便的男人，总喜欢挑我的一些吹毛求疵的违纪情况;
+比如上自习的时候托腮;
+托腮怎么了，偷你家大米了吗?;
+"托腮就是状态不好,没有斗志，没有拼抢意识！";
+唉，傻逼男宝老师是这样的,不指导指导人就浑身难受;
+通常男宝老师教两年体育课就可以晋升为领导;
+还可以凭借小吊子降分录取;
+脏活儿累活儿都交给女老师来干;
+唉，老师，真的是最傻逼的职业之一;
+将来我们都不会生孩子,饿死你们这群争先恐后考教师编的傻逼;
+未知:野生的教导主任跳了出来！
+bgm:boss05.mp3;
+熊若绘:这个学校不是没人吗?;
+真的是怕什么来什么;
+不管了，投入战斗吧;
+
+setVar:enemy_hp=5;
+label:start01
+未知:熊若绘要做什么
+choose:攻击:atk|冥想:mingxiang|暗杀:ansha|逃跑:run;
+
+label:mingxiang
+setVar:atk=atk+2 -global;
+未知:熊若绘攻击力上升2点，现在的攻击力为{atk}
+未知:熊若绘的暗杀概率提升!
+setVar:hp=hp-2 -global;
+未知: 教导主任对你造成2点伤害，你当前的体力值为{hp}.
+changeScene:game over.txt -when=hp<1;
+changeScene:episode-11-jiaoxuelou.txt;
+
+
+label:atk
+
+未知:教导主任的战斗力为10，体力为5，每次需要进行拼点，如果成功，对教导主任造成差值伤害，如果失败，你受到差值伤害。
+setVar:a=random();
+setVar:a=1+a*5;
+setVar:tou=1 -when=a>0.5
+setVar:tou=2 -when=a>1.5
+setVar:tou=3 -when=a>2.5
+setVar:tou=4 -when=a>3.5
+setVar:tou=5 -when=a>4.5
+setVar:tou=6 -when=a>5.5
+setVar:he=atk+tou
+未知:骰子的值为{tou}，熊若绘的攻击力为{exp}，和为{he}
+jumpLabel:fail -when=he<10
+jumpLabel:ping -when=he==10
+
+label:ping
+未知:本回合，你与教导主任战成了平手
+
+
+label:fail
+
+label:ansha
+未知:熊若绘使用了技能「暗杀」,需要进行一次暗杀鉴定;
+setVar:a=random();
+未知:暗杀成功 -when=a>0.85
+jumpLabel:suc -when=a>0.85
+未知:暗杀失败
+setVar:hp=hp-2 -global;
+未知: 教导主任对你造成2点伤害，你当前的体力值为{hp}.
+changeScene:game over.txt -when=hp<1;
+changeScene:episode-11-jiaoxuelou.txt;
+
+
+
+
+label:run
+
+label:suc
+未知:教导主任倒下了
+bgm:boc.mp3;
+未知:你从他身上获得一把钥匙，在哪里可以用到呢?
+setVar:yaoshi=1 -global;
+changeScene:episode-11-caochang.txt;
