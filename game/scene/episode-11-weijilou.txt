@@ -29,7 +29,7 @@ label:ok
 未知:欢迎参加迪哥猜歌大赛！一共有三题，完成三题即可获得奖品！
 未知:第一题，仔细听这首歌曲，请问这首歌属于哪个年代？
 bgm:00s.mp3
-choose:60年代:ok|70年代:ok|80年代:ok|90年代:ok|00年代:next1
+choose:60年代:gg|70年代:gg|80年代:gg|90年代:gg|00年代:next1
 label:next1
 
 熊若绘:怎么又是做题的主题，我真的不想再梦到和做题有关的梦了;
@@ -42,7 +42,7 @@ label:next1
 我们只需要公式化标准化的零件，去维护这个渺小人类社会的运转;
 未知:第二题，仔细听这首歌曲，请问这首歌属于哪个国家地区？
 bgm:germany.mp3
-choose:英国:ok|德国:next2|中东:ok|日本:ok|美国:ok
+choose:英国:gg|德国:next2|中东:gg|日本:gg|美国:gg
 label:next2
 
 熊若绘:如果世界上只剩下做题家音乐，会怎样呢?;
@@ -57,7 +57,7 @@ label:next2
 
 未知:第三题，仔细听这首歌曲，请问这首歌属于第几波Emo？
 bgm:emo.mp3
-choose:第一波:ok|第二波:ok|第三波:ok|第四波:next3|第五波:ok
+choose:第一波:gg|第二波:gg|第三波:gg|第四波:next3|第五波:gg
 label:next3
 未知:太厉害了，全部答对，恭喜获得奖品！
 changeBg:close -next;
@@ -78,3 +78,5 @@ changeFigure:close -left -next;
 过去、现在、未来都已经同时存在了，梦是回顾和预习的手段;
 只可惜，我们大多都不记得梦的内容了;
 changeScene:episode-12.txt;
+label:gg
+changeScene:game over.txt;

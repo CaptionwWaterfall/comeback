@@ -81,4 +81,5 @@ setVar:xmb_flag=-1 -global
 setVar:caochang_flag=-1 -global
 setVar:wjl_flag=-1 -global
 setVar:shitang_flag=-1 -global
+setVar:hp2=15 -global
 changeScene:episode-11-caochang.txt;;

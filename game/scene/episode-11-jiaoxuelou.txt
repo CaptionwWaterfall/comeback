@@ -37,7 +37,8 @@ changeScene:episode-11-jiaoxuelou.txt;
 
 label:atk
 
-未知:教导主任的战斗力为10，体力为5，每次需要进行拼点，如果成功，对教导主任造成差值伤害，如果失败，你受到差值伤害。
+未知:教导主任的战斗力为10，体力为15，每次需要进行拼点，如果成功，对教导主任造成差值伤害，如果失败，你受到2点伤害。
+
 setVar:a=random();
 setVar:a=1+a*5;
 setVar:tou=1 -when=a>0.5
@@ -47,15 +48,23 @@ setVar:tou=4 -when=a>3.5
 setVar:tou=5 -when=a>4.5
 setVar:tou=6 -when=a>5.5
 setVar:he=atk+tou
-未知:骰子的值为{tou}，熊若绘的攻击力为{exp}，和为{he}
+未知:骰子的值为{tou}，熊若绘的攻击力为{atk}，和为{he}
 jumpLabel:fail -when=he<10
 jumpLabel:ping -when=he==10
-
+setVar:shanghai=he-10;
+setVar:hp2=hp2-shanghai;
+未知:你对教导主任造成了{shanghai}点伤害，教导主任还有{hp2}点体力
+jumpLabel:suc -when=hp2<1
+changeScene:episode-11-jiaoxuelou.txt;
 label:ping
 未知:本回合，你与教导主任战成了平手
-
+changeScene:episode-11-jiaoxuelou.txt;
 
 label:fail
+setVar:hp=hp-2 -global;
+未知: 教导主任对你造成2点伤害，你当前的体力值为{hp}.
+changeScene:game over.txt -when=hp<1;
+changeScene:episode-11-jiaoxuelou.txt;
 
 label:ansha
 未知:熊若绘使用了技能「暗杀」,需要进行一次暗杀鉴定;
